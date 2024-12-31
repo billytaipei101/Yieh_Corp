@@ -1,5 +1,5 @@
 ---
-title: "Carbon Steel"
+title: "Acero al Carbono"
 url: "/es/steps/step-2/"
 products:
   - name: "Product A"
