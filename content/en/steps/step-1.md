@@ -1,6 +1,6 @@
 ---
 title: "Stainless Steel"
-url: "/steps/es/step-1/"
+url: "/steps/step-1/"
 products:
   - name: "Product A"
     options:
@@ -10,9 +10,6 @@ products:
     options:
       - "Option 1"
       - "Option 2"
-      title: "Paso 1"
-weight: 1
-lang: es
 ---
 
 # Available Products for Step 1
