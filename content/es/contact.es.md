@@ -2,7 +2,7 @@
 title: "Contacto"
 ---
 
-<form name="contacto" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+<form name="contacto" method="POST" netlify>
   <input type="hidden" name="form-name" value="contacto">
 
   <label for="name">Nombre</label>
