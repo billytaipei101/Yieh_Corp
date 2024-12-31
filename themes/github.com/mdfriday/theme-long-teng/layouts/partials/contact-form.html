@@ -13,7 +13,7 @@
           {{ end }}
         </div>
         {{ if $isSpanish }}
-          <form name="contacto" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+          <form name="contacto" method="POST" netlify action="/es/thank-you/">
               <input type="hidden" name="form-name" value="contacto">
               <div class="form-group">
                 <input type="text" id="name" name="name" placeholder="Nombre" required>
@@ -27,7 +27,7 @@
               <button type="submit" class="button-primary">Enviar</button>
           </form>
         {{ else }}
-          <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+          <form name="contact" method="POST" netlify action="/en/thank-you/">
               <input type="hidden" name="form-name" value="contact">
               <div class="form-group">
                 <input type="text" id="name" name="name" placeholder="Name" required>
