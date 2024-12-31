@@ -2,7 +2,7 @@
 title: "Contacto"
 ---
 
-<form name="contacto" method="POST" netlify action="/es/thank-you/">
+<form name="contacto" method="POST" netlify action="/es/thank-you">
   <input type="hidden" name="form-name" value="contacto">
 
   <label for="name">Nombre</label>
