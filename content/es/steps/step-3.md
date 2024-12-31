@@ -1,6 +1,6 @@
 ---
 title: "Coated Steel"
-url: "/steps/step-3/"
+url: "/es/steps/step-3/"
 products:
   - name: "Product A"
     options:
@@ -10,6 +10,8 @@ products:
     options:
       - "Option 1"
       - "Option 2"
+weight: 3
+lang: es
 ---
 
 # Available Products for Step 3

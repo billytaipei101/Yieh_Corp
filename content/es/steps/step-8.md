@@ -1,6 +1,6 @@
 ---
 title: "Others"
-url: "/steps/step-8/"
+url: "/es/steps/step-8/"
 products:
   - name: "Product A"
     options:
@@ -10,6 +10,8 @@ products:
     options:
       - "Option 1"
       - "Option 2"
+weight: 8
+lang: es
 ---
 
 # Available Products for Step 8

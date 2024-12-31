@@ -3,14 +3,14 @@ title: "Seamless Metal Industry Solutions"
 subtitle: "Asia-Wide Production Network"
 
 steps:
-  - "1 | Stainless Steel | We can process orders to any specification, length, and thickness. | /steps/step-1"
-  - "2 | Carbon Steel | We offer a wide variety of carbon steel specifications and sizes. | /steps/step-2"
-  - "3 | Coated Steel | Hot-dip galvanized steel for many applications. | /steps/step-3"
-  - "4 | Aluminum | High-quality aluminum in many shapes, sizes, and grades. | /steps/step-4"
-  - "5 | Pipe/Tube | Long-lasting stainless steel welded pipes and tubes. | /steps/step-5"
-  - "6 | Bar | We offer a variety of stainless steel bars. | /steps/step-6"
-  - "7 | Wire Rod | Ideal for both residential and maritime applications. | /steps/step-7"
-  - "8 | Others | Recyclable steels, metals with electrolytic properties among others. | /steps/step-8"
+  - "1 | Stainless Steel | We can process orders to any specification, length, and thickness. | /en/steps/step-1"
+  - "2 | Carbon Steel | We offer a wide variety of carbon steel specifications and sizes. | /en/steps/step-2"
+  - "3 | Coated Steel | Hot-dip galvanized steel for many applications. | /en/steps/step-3"
+  - "4 | Aluminum | High-quality aluminum in many shapes, sizes, and grades. | /en/steps/step-4"
+  - "5 | Pipe/Tube | Long-lasting stainless steel welded pipes and tubes. | /en/steps/step-5"
+  - "6 | Bar | We offer a variety of stainless steel bars. | /en/steps/step-6"
+  - "7 | Wire Rod | Ideal for both residential and maritime applications. | /en/steps/step-7"
+  - "8 | Others | Recyclable steels, metals with electrolytic properties among others. | /en/steps/step-8"
 ---
 
 # How-To Configuration Field Explanation

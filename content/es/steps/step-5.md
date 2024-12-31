@@ -1,6 +1,6 @@
 ---
 title: "Pipe/Tube"
-url: "/steps/step-5/"
+url: "/es/steps/step-5/"
 products:
   - name: "Product A"
     options:
@@ -10,6 +10,8 @@ products:
     options:
       - "Option 1"
       - "Option 2"
+weight: 5
+lang: es
 ---
 
 # Available Products for Step 5

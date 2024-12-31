@@ -1,6 +1,6 @@
 ---
 title: "Aluminum"
-url: "/steps/step-4/"
+url: "/en/steps/step-4/"
 products:
   - name: "Product A"
     options:
@@ -10,6 +10,8 @@ products:
     options:
       - "Option 1"
       - "Option 2"
+weight: 4
+lang: en
 ---
 
 # Available Products for Step 4

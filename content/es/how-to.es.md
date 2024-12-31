@@ -4,13 +4,13 @@ subtitle: "Red de Producción en Toda Asia"
 
 steps:
   - "1 | Acero Inoxidable | Podemos procesar pedidos según cualquier especificación, longitud y grosor. | /es/steps/step-1"
-  - "2 | Acero al Carbono | Ofrecemos una amplia variedad de especificaciones y tamaños de acero al carbono. | /steps/step-2"
-  - "3 | Acero Recubierto | Acero galvanizado en caliente para muchas aplicaciones. | /steps/step-3"
-  - "4 | Aluminio | Aluminio de alta calidad en diversas formas, tamaños y grados. | /steps/step-4"
-  - "5 | Tubería/Tubos | Tuberías y tubos soldados de acero inoxidable de larga duración. | /steps/step-5"
-  - "6 | Barra | Ofrecemos una variedad de barras de acero inoxidable. | /steps/step-6"
-  - "7 | Alambrón | Ideal para aplicaciones residenciales y marítimas. | /steps/step-7"
-  - "8 | Otros | Aceros reciclables, metales con propiedades electrolíticas entre otros. | /steps/step-8"
+  - "2 | Acero al Carbono | Ofrecemos una amplia variedad de especificaciones y tamaños de acero al carbono. | /es/steps/step-2"
+  - "3 | Acero Recubierto | Acero galvanizado en caliente para muchas aplicaciones. | /es/steps/step-3"
+  - "4 | Aluminio | Aluminio de alta calidad en diversas formas, tamaños y grados. | /es/steps/step-4"
+  - "5 | Tubería/Tubos | Tuberías y tubos soldados de acero inoxidable de larga duración. | /es/steps/step-5"
+  - "6 | Barra | Ofrecemos una variedad de barras de acero inoxidable. | /es/steps/step-6"
+  - "7 | Alambrón | Ideal para aplicaciones residenciales y marítimas. | /es/steps/step-7"
+  - "8 | Otros | Aceros reciclables, metales con propiedades electrolíticas entre otros. | /es/steps/step-8"
 
 ---
 

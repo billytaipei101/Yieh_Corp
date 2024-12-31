@@ -1,6 +1,6 @@
 ---
 title: "Wire Rod"
-url: "/steps/step-7/"
+url: "/en/steps/step-7/"
 products:
   - name: "Product A"
     options:
@@ -10,6 +10,8 @@ products:
     options:
       - "Option 1"
       - "Option 2"
+weight: 7
+lang: en
 ---
 
 # Available Products for Step 7

@@ -1,6 +1,6 @@
 ---
 title: "Bar"
-url: "/steps/step-6/"
+url: "/en/steps/step-6/"
 products:
   - name: "Product A"
     options:
@@ -10,6 +10,8 @@ products:
     options:
       - "Option 1"
       - "Option 2"
+weight: 6
+lang: en
 ---
 
 # Available Products for Step 6

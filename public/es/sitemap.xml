@@ -6,12 +6,24 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/steps/step-1/"
+                href="/en/steps/step-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="/es/steps/step-1/"
+                />
+  </url><url>
+    <loc>/es/steps/step-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/steps/step-2/"
                 />
   </url><url>
     <loc>/es/nav/</loc>
@@ -26,6 +38,78 @@
                 href="/es/nav/"
                 />
   </url><url>
+    <loc>/es/steps/step-3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/steps/step-3/"
+                />
+  </url><url>
+    <loc>/es/steps/step-4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/steps/step-4/"
+                />
+  </url><url>
+    <loc>/es/steps/step-5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/steps/step-5/"
+                />
+  </url><url>
+    <loc>/es/steps/step-6/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/steps/step-6/"
+                />
+  </url><url>
+    <loc>/es/steps/step-7/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/steps/step-7/"
+                />
+  </url><url>
+    <loc>/es/steps/step-8/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/steps/step-8/"
+                />
+  </url><url>
     <loc>/es/footer/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,30 +120,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/footer/"
-                />
-  </url><url>
-    <loc>/steps/step-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/steps/step-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/steps/step-4/"
-                />
-  </url><url>
-    <loc>/steps/step-6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/steps/step-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/steps/step-6/"
                 />
   </url><url>
     <loc>/es/</loc>
@@ -74,18 +134,6 @@
                 href="/es/"
                 />
   </url><url>
-    <loc>/steps/step-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/steps/step-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/steps/step-2/"
-                />
-  </url><url>
     <loc>/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -96,18 +144,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/categories/"
-                />
-  </url><url>
-    <loc>/steps/step-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/steps/step-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/steps/step-3/"
                 />
   </url><url>
     <loc>/es/contact/</loc>
@@ -132,30 +168,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/product/"
-                />
-  </url><url>
-    <loc>/steps/step-8/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/steps/step-8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/steps/step-8/"
-                />
-  </url><url>
-    <loc>/steps/step-5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/steps/step-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/steps/step-5/"
                 />
   </url><url>
     <loc>/es/how-to/</loc>
@@ -192,18 +204,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/"
-                />
-  </url><url>
-    <loc>/steps/step-7/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/steps/step-7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/steps/step-7/"
                 />
   </url><url>
     <loc>/es/user-trust/</loc>

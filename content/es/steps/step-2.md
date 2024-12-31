@@ -1,6 +1,6 @@
 ---
 title: "Carbon Steel"
-url: "/steps/step-2/"
+url: "/es/steps/step-2/"
 products:
   - name: "Product A"
     options:
@@ -10,6 +10,8 @@ products:
     options:
       - "Option 1"
       - "Option 2"
+weight: 2
+lang: es
 ---
 
 # Available Products for Step 2
