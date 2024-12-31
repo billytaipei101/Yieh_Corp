@@ -206,6 +206,10 @@
                 href="/es/tags/"
                 />
   </url><url>
+    <loc>/es/thank-you/</loc>
+  </url><url>
+    <loc>/es/thank-you.esmd/</loc>
+  </url><url>
     <loc>/es/user-trust/</loc>
     <xhtml:link
                 rel="alternate"
