@@ -1,5 +1,5 @@
 ---
-title: "Pipe/Tube"
+title: "Tubería/Tubos"
 url: "/es/steps/step-5/"
 products:
   - name: "Product A"

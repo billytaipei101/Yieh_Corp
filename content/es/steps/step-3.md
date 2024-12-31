@@ -1,5 +1,5 @@
 ---
-title: "Coated Steel"
+title: "Acero Recubierto"
 url: "/es/steps/step-3/"
 products:
   - name: "Product A"
