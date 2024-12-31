@@ -17,8 +17,6 @@ right_links:
   - "ภาษาไทย, /th/, false"
   - "繁體中文, /zh-tw/, false"
   - "简体中文, /zh-cn/, false"
-<<<<<<< HEAD
   - "Русский, /ru/, false"
-=======
->>>>>>> c2efaa5b429082d92af00f74557e429d958e2fda
+
 ---
