@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>歡迎來到燁貿國際股份有限公司 (中文) on 燁貿國際股份有限公司 (中文)</title>
+    <link>//localhost:4321/zh/</link>
+    <description>Recent content in 歡迎來到燁貿國際股份有限公司 (中文) on 燁貿國際股份有限公司 (中文)</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <atom:link href="//localhost:4321/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuración de la barra de navegación</title>
+      <link>//localhost:4321/zh/nav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/zh/nav/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:4321/zh/footer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/zh/footer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MDFriday: 產品介紹</title>
+      <link>//localhost:4321/zh/product/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/zh/product/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>感謝</title>
+      <link>//localhost:4321/zh/thank-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/zh/thank-you/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>金屬行業的無縫解決方案</title>
+      <link>//localhost:4321/zh/how-to/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/zh/how-to/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>聯絡我們</title>
+      <link>//localhost:4321/zh/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/zh/contact/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;姓名&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;電子郵件&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;訊息&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;送出&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>燁貿國際股份有限公司：推動全球業務發展</title>
+      <link>//localhost:4321/zh/user-trust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/zh/user-trust/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

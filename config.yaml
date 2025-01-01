@@ -7,15 +7,20 @@ description: MDFriday homepage, showcase the product or service.
 # Multilingual Configuration
 languages:
   en:
-    title: Yieh Corp (English)
+    title: Yieh Corp International (English)
     languageName: English
     weight: 1
     contentDir: content/en
   es:
-    title: Yieh Corp (Español)
+    title: Yieh Corp Internacional (Español)
     languageName: Español
     weight: 2
     contentDir: content/es
+  zh:
+    title: 燁貿國際股份有限公司 (中文)
+    languageName: Chinese
+    weight: 3
+    contentDir: content/zh
 
 module:
   imports:
