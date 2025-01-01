@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 燁무국제(주) (한국어)</title>
-    <link>/ko/categories/</link>
+    <link>//localhost:4321/ko/categories/</link>
     <description>Recent content in Categories on 燁무국제(주) (한국어)</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <atom:link href="/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/ko/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

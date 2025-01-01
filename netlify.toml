@@ -19,3 +19,45 @@ HUGO_ENV = 'production'
 [params]
 # Add this for internal links
 internalLinkTarget = "_self" 
+
+[[redirects]]
+  from = "/contact"
+  to = "/en/thank-you"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/es/contact"
+  to = "/es/thank-you"
+  status = 302
+  force = true
+  
+[[redirects]]
+  from = "/zh/contact"
+  to = "/zh/thank-you"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/ja/contact"
+  to = "/ja/thank-you"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/ko/contact"
+  to = "/ko/thank-you"
+  status = 302
+  force = true
+  
+[[redirects]]
+  from = "/th/contact"
+  to = "/th/thank-you"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/vi/contact"
+  to = "/vi/thank-you"
+  status = 302
+  force = true

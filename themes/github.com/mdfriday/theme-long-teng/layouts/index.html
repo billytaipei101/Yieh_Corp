@@ -197,7 +197,7 @@
             {{ end }}
             </div>
             {{ if $isSpanish }}
-            <form name="contacto" method="POST" netlify action="/es/thank-you">
+            <form name="contacto" method="POST" netlify>
                 <input type="hidden" name="form-name" value="contacto">
                 <div class="form-group">
                     <input type="text" id="name" name="name" placeholder="Nombre" required>
@@ -211,7 +211,7 @@
                 <button type="submit" class="button-primary">Enviar</button>
             </form>
             {{ else if $isChinese }}
-            <form name="contact" method="POST" netlify action="/zh/thank-you">
+            <form name="contact" method="POST" netlify>
                 <input type="hidden" name="form-name" value="contact">
                 <div class="form-group">
                     <input type="text" id="name" name="name" placeholder="姓名" required>
@@ -225,7 +225,7 @@
                 <button type="submit" class="button-primary">提交</button>
             </form>
             {{ else if $isJapanese }}
-            <form name="contact" method="POST" netlify action="/ja/thank-you">
+            <form name="contact" method="POST" netlify>
                 <input type="hidden" name="form-name" value="contact">
                 <div class="form-group">
                     <input type="text" id="name" name="name" placeholder="名前" required>
@@ -239,7 +239,7 @@
                 <button type="submit" class="button-primary">送信</button>
             </form>
             {{ else if $isKorean }}
-            <form name="contact" method="POST" netlify action="/ko/thank-you">
+            <form name="contact" method="POST" netlify>
                 <input type="hidden" name="form-name" value="contact">
                 <div class="form-group">
                     <input type="text" id="name" name="name" placeholder="이름" required>
@@ -253,7 +253,7 @@
                 <button type="submit" class="button-primary">보내기</button>
             </form>
             {{ else if $isThai }}
-            <form name="contact" method="POST" netlify action="/th/thank-you">
+            <form name="contact" method="POST" netlify>
                 <input type="hidden" name="form-name" value="contact">
                 <div class="form-group">
                     <input type="text" id="name" name="name" placeholder="ชื่อ" required>
@@ -267,7 +267,7 @@
                 <button type="submit" class="button-primary">ส่ง</button>
             </form>
             {{ else if $isVietnamese }}
-            <form name="contact" method="POST" netlify action="/vi/thank-you">
+            <form name="contact" method="POST" netlify>
                 <input type="hidden" name="form-name" value="contact">
                 <div class="form-group">
                     <input type="text" id="name" name="name" placeholder="Tên" required>
@@ -281,7 +281,7 @@
                 <button type="submit" class="button-primary">Gửi</button>
             </form>
             {{ else }}
-            <form name="contact" method="POST" netlify action="/en/thank-you">
+            <form name="contact" method="POST" netlify>
                 <input type="hidden" name="form-name" value="contact">
                 <div class="form-group">
                     <input type="text" id="name" name="name" placeholder="Name" required>
