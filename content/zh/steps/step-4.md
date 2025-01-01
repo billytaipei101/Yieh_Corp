@@ -1,6 +1,6 @@
 ---
-title: "Aluminio"
-url: "/es/steps/step-4/"
+title: "鋁"
+url: "/zh/steps/step-4/"
 products:
   - name: "Product A"
     options:
@@ -11,7 +11,7 @@ products:
       - "Option 1"
       - "Option 2"
 weight: 4
-lang: es
+lang: zh
 ---
 
 # Available Products for Step 4

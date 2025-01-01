@@ -1,6 +1,6 @@
 ---
-title: "Acero Inoxidable"
-url: "/es/steps/step-1"
+title: "不銹鋼"
+url: "/zh/steps/step-1"
 products:
   - name: "Product A"
     options:
@@ -11,7 +11,7 @@ products:
       - "Option 1"
       - "Option 2"
 weight: 1
-lang: es
+lang: zh
 ---
 
 # Available Products for Step 1

@@ -163,6 +163,11 @@
 
     {{ $isSpanish := strings.HasPrefix .RelPermalink "/es/" }}
     {{ $isChinese := strings.HasPrefix .RelPermalink "/zh/" }}
+    {{ $isJapanese := strings.HasPrefix .RelPermalink "/ja/" }}
+    {{ $isKorean := strings.HasPrefix .RelPermalink "/ko/" }}
+    {{ $isThai := strings.HasPrefix .RelPermalink "/th/" }}
+    {{ $isVietnamese := strings.HasPrefix .RelPermalink "/vi/" }}
+    
     <section id="contact">
     <div class="padding-vertical padding-xxhuge">
         <div class="z-3">
@@ -174,13 +179,25 @@
             {{ else if $isChinese }}
                 <h2 class="heading-large">聯絡我們</h2>
                 <p class="subheading">我們期待您的來信！</p>
+            {{ else if $isJapanese }}
+                <h2 class="heading-large">お問い合わせ</h2>
+                <p class="subheading">ご連絡お待ちしております！</p>
+            {{ else if $isKorean }}
+                <h2 class="heading-large">연락처</h2>
+                <p class="subheading">귀하의 연락을 기다리고 있습니다!</p>
+            {{ else if $isThai }}
+                <h2 class="heading-large">ติดต่อเรา</h2>
+                <p class="subheading">เรารอคอยที่จะได้ยินจากคุณ!</p>
+            {{ else if $isVietnamese }}
+                <h2 class="heading-large">Liên hệ</h2>
+                <p class="subheading">Chúng tôi rất mong nhận được phản hồi từ bạn!</p>
             {{ else }}
                 <h2 class="heading-large">Contact</h2>
                 <p class="subheading">We'd love to hear from you!</p>
             {{ end }}
             </div>
             {{ if $isSpanish }}
-            <form name="contacto" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+            <form name="contacto" method="POST" netlify action="/es/thank-you">
                 <input type="hidden" name="form-name" value="contacto">
                 <div class="form-group">
                     <input type="text" id="name" name="name" placeholder="Nombre" required>
@@ -194,7 +211,7 @@
                 <button type="submit" class="button-primary">Enviar</button>
             </form>
             {{ else if $isChinese }}
-            <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+            <form name="contact" method="POST" netlify action="/zh/thank-you">
                 <input type="hidden" name="form-name" value="contact">
                 <div class="form-group">
                     <input type="text" id="name" name="name" placeholder="姓名" required>
@@ -207,8 +224,64 @@
                 </div>
                 <button type="submit" class="button-primary">提交</button>
             </form>
+            {{ else if $isJapanese }}
+            <form name="contact" method="POST" netlify action="/ja/thank-you">
+                <input type="hidden" name="form-name" value="contact">
+                <div class="form-group">
+                    <input type="text" id="name" name="name" placeholder="名前" required>
+                </div>
+                <div class="form-group">
+                    <input type="email" id="email" name="email" placeholder="電子メール" required>
+                </div>
+                <div class="form-group">
+                    <textarea id="message" name="message" placeholder="メッセージ" required style="height: 200px;"></textarea>
+                </div>
+                <button type="submit" class="button-primary">送信</button>
+            </form>
+            {{ else if $isKorean }}
+            <form name="contact" method="POST" netlify action="/ko/thank-you">
+                <input type="hidden" name="form-name" value="contact">
+                <div class="form-group">
+                    <input type="text" id="name" name="name" placeholder="이름" required>
+                </div>
+                <div class="form-group">
+                    <input type="email" id="email" name="email" placeholder="이메일" required>
+                </div>
+                <div class="form-group">
+                    <textarea id="message" name="message" placeholder="메시지" required style="height: 200px;"></textarea>
+                </div>
+                <button type="submit" class="button-primary">보내기</button>
+            </form>
+            {{ else if $isThai }}
+            <form name="contact" method="POST" netlify action="/th/thank-you">
+                <input type="hidden" name="form-name" value="contact">
+                <div class="form-group">
+                    <input type="text" id="name" name="name" placeholder="ชื่อ" required>
+                </div>
+                <div class="form-group">
+                    <input type="email" id="email" name="email" placeholder="อีเมล" required>
+                </div>
+                <div class="form-group">
+                    <textarea id="message" name="message" placeholder="ข้อความ" required style="height: 200px;"></textarea>
+                </div>
+                <button type="submit" class="button-primary">ส่ง</button>
+            </form>
+            {{ else if $isVietnamese }}
+            <form name="contact" method="POST" netlify action="/vi/thank-you">
+                <input type="hidden" name="form-name" value="contact">
+                <div class="form-group">
+                    <input type="text" id="name" name="name" placeholder="Tên" required>
+                </div>
+                <div class="form-group">
+                    <input type="email" id="email" name="email" placeholder="Email" required>
+                </div>
+                <div class="form-group">
+                    <textarea id="message" name="message" placeholder="Tin nhắn" required style="height: 200px;"></textarea>
+                </div>
+                <button type="submit" class="button-primary">Gửi</button>
+            </form>
             {{ else }}
-            <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+            <form name="contact" method="POST" netlify action="/en/thank-you">
                 <input type="hidden" name="form-name" value="contact">
                 <div class="form-group">
                     <input type="text" id="name" name="name" placeholder="Name" required>

@@ -1,6 +1,6 @@
 ---
-title: "Acero Recubierto"
-url: "/es/steps/step-3/"
+title: "鍍層鋼"
+url: "/zh/steps/step-3/"
 products:
   - name: "Product A"
     options:
@@ -11,7 +11,7 @@ products:
       - "Option 1"
       - "Option 2"
 weight: 3
-lang: es
+lang: zh
 ---
 
 # Available Products for Step 3

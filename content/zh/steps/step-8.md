@@ -1,6 +1,6 @@
 ---
-title: "Otros"
-url: "/es/steps/step-8/"
+title: "其他"
+url: "/zh/steps/step-8/"
 products:
   - name: "Product A"
     options:
@@ -11,7 +11,7 @@ products:
       - "Option 1"
       - "Option 2"
 weight: 8
-lang: es
+lang: zh
 ---
 
 # Available Products for Step 8

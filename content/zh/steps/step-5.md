@@ -1,6 +1,6 @@
 ---
-title: "Tubería/Tubos"
-url: "/es/steps/step-5/"
+title: "管材/管道"
+url: "/zh/steps/step-5/"
 products:
   - name: "Product A"
     options:
@@ -11,7 +11,7 @@ products:
       - "Option 1"
       - "Option 2"
 weight: 5
-lang: es
+lang: zh
 ---
 
 # Available Products for Step 5

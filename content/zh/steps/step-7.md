@@ -1,6 +1,6 @@
 ---
-title: "Alambrón"
-url: "/es/steps/step-7/"
+title: "線材"
+url: "/zh/steps/step-7/"
 products:
   - name: "Product A"
     options:
@@ -11,7 +11,7 @@ products:
       - "Option 1"
       - "Option 2"
 weight: 7
-lang: es
+lang: zh
 ---
 
 # Available Products for Step 7

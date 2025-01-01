@@ -21,6 +21,26 @@ languages:
     languageName: Chinese
     weight: 3
     contentDir: content/zh
+  ja:
+    title: 燁貿国際株式会社 (日本語)
+    languageName: Japanese
+    weight: 4
+    contentDir: content/ja
+  ko:
+    title: 燁무국제(주) (한국어)
+    languageName: Korean
+    weight: 5
+    contentDir: content/ko
+  th:
+    title: เย่คอร์ปอินเตอร์เนชั่นแนล จำกัด (ไทย)
+    languageName: Thai
+    weight: 6
+    contentDir: content/th
+  vi:
+    title: Công ty Cổ phần Yieh Corp Quốc tế (Tiếng Việt)
+    languageName: Vietnamese
+    weight: 7
+    contentDir: content/vi
 
 module:
   imports:

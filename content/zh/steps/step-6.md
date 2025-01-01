@@ -1,6 +1,6 @@
 ---
-title: "Barra"
-url: "/es/steps/step-6/"
+title: "棒材"
+url: "/zh/steps/step-6/"
 products:
   - name: "Product A"
     options:
@@ -11,7 +11,7 @@ products:
       - "Option 1"
       - "Option 2"
 weight: 6
-lang: es
+lang: zh
 ---
 
 # Available Products for Step 6

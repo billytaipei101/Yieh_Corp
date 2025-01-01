@@ -1,6 +1,6 @@
 ---
-title: "Acero al Carbono"
-url: "/es/steps/step-2/"
+title: "碳鋼"
+url: "/zh/steps/step-2/"
 products:
   - name: "Product A"
     options:
@@ -11,7 +11,7 @@ products:
       - "Option 1"
       - "Option 2"
 weight: 2
-lang: es
+lang: zh
 ---
 
 # Available Products for Step 2
