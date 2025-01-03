@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steps on 燁貿国際株式会社 (日本語)</title>
-    <link>//localhost:4321/ja/steps/</link>
+    <link>/ja/steps/</link>
     <description>Recent content in Steps on 燁貿国際株式会社 (日本語)</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="//localhost:4321/ja/steps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/ja/steps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ステンレス鋼</title>
-      <link>//localhost:4321/ja/steps/step-1/</link>
+      <link>/ja/steps/step-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/ja/steps/step-1/</guid>
-      <description>&lt;h1 id=&#34;available-products-for-step-1&#34;&gt;Available Products for Step 1&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>/ja/steps/step-1/</guid>
+      <description>&lt;p&gt;    &#xA;    &#xA;    &lt;/p&gt;&#xA;&lt;div class=&#34;image-grid&#34;&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;/img/step_1_a.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;ステンレス鋼 熱間/冷間圧延コイル&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;/img/step_1_b.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;ステンレス鋼 ストリップ&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;/img/step_1_c.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;ステンレス鋼 板&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;/img/step_1_d.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;ステンレス鋼 チェッカープレート&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;/img/step_1_e.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;ステンレス鋼 シート&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;/img/step_1_f.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;塗装済みステンレス鋼 コイル/シート&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.image-grid {&#xA;  display: grid;&#xA;  grid-template-columns: repeat(3, 1fr);  &#xA;  grid-gap: 10px;  &#xA;}&#xA;&#xA;.grid-image {&#xA;  width: 100%;&#xA;  height: auto;&#xA;}&#xA;&#xA;.grid-item {&#xA;  text-align: center;  &#xA;}&#xA;&#xA;.image-caption {&#xA;  font-size: 0.8rem;  &#xA;  color: #666;  &#xA;  margin-top: 5px;  &#xA;}&#xA;&lt;/style&gt;&#xA;&lt;p&gt;    &lt;/p&gt;&#xA;&lt;h3 id=&#34;index&#34;&gt;Index&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ja/steps/step-1/#%e3%82%b9%e3%83%86%e3%83%b3%e3%83%ac%e3%82%b9%e9%8b%bc-%e7%86%b1%e9%96%93%e5%9c%a7%e5%bb%b6-no-1-%e3%82%b3%e3%82%a4%e3%83%ab&#34;&gt;ステンレス鋼 熱間圧延 No.1 コイル&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ja/steps/step-1/#%e3%82%b9%e3%83%86%e3%83%b3%e3%83%ac%e3%82%b9%e9%8b%bc-%e5%86%b7%e9%96%93%e5%9c%a7%e5%bb%b6%e3%82%b3%e3%82%a4%e3%83%ab&#34;&gt;ステンレス鋼 冷間圧延コイル&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ja/steps/step-1/#%e3%82%b9%e3%83%86%e3%83%b3%e3%83%ac%e3%82%b9%e9%8b%bc-%e3%82%b9%e3%83%88%e3%83%aa%e3%83%83%e3%83%97&#34;&gt;ステンレス鋼 ストリップ&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ja/steps/step-1/#%e3%82%b9%e3%83%86%e3%83%b3%e3%83%ac%e3%82%b9%e9%8b%bc-%e6%9d%bf&#34;&gt;ステンレス鋼 板&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ja/steps/step-1/#%e3%82%b9%e3%83%86%e3%83%b3%e3%83%ac%e3%82%b9%e9%8b%bc-%e3%83%81%e3%82%a7%e3%83%83%e3%82%ab%e3%83%bc%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88&#34;&gt;ステンレス鋼 チェッカープレート&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ja/steps/step-1/#%e3%82%b9%e3%83%86%e3%83%b3%e3%83%ac%e3%82%b9%e9%8b%bc-%e3%82%b7%e3%83%bc%e3%83%88&#34;&gt;ステンレス鋼 シート&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ja/steps/step-1/#%e5%a1%97%e8%a3%85%e6%b8%88%e3%81%bf%e3%82%b9%e3%83%86%e3%83%b3%e3%83%ac%e3%82%b9%e9%8b%bc-%e3%82%b3%e3%82%a4%e3%83%ab-%e3%82%b7%e3%83%bc%e3%83%88&#34;&gt;塗装済みステンレス鋼 コイル-シート&lt;/a&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;    &lt;/p&gt;&#xA;&lt;h2 id=&#34;ステンレス鋼-熱間圧延-no1-コイル&#34;&gt;ステンレス鋼 熱間圧延 No.1 コイル&lt;/h2&gt;&#xA;&lt;p&gt;    &lt;/p&gt;&#xA;&lt;p&gt;Yieh Corp. supplies durable, corrosion-resistant stainless steel hot rolled No. 1 coils at the best prices. Ideal for residential and marine use, our coils offer excellent strength and a perfect surface finish, with customizable processing options.&lt;/p&gt;</description>
     </item>
     <item>
       <title>炭素鋼</title>
-      <link>//localhost:4321/ja/steps/step-2/</link>
+      <link>/ja/steps/step-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/ja/steps/step-2/</guid>
+      <guid>/ja/steps/step-2/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-2&#34;&gt;Available Products for Step 2&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>コーティング鋼</title>
-      <link>//localhost:4321/ja/steps/step-3/</link>
+      <link>/ja/steps/step-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/ja/steps/step-3/</guid>
+      <guid>/ja/steps/step-3/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-3&#34;&gt;Available Products for Step 3&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>アルミニウム</title>
-      <link>//localhost:4321/ja/steps/step-4/</link>
+      <link>/ja/steps/step-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/ja/steps/step-4/</guid>
+      <guid>/ja/steps/step-4/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-4&#34;&gt;Available Products for Step 4&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>管材/配管</title>
-      <link>//localhost:4321/ja/steps/step-5/</link>
+      <link>/ja/steps/step-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/ja/steps/step-5/</guid>
+      <guid>/ja/steps/step-5/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-5&#34;&gt;Available Products for Step 5&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>棒材</title>
-      <link>//localhost:4321/ja/steps/step-6/</link>
+      <link>/ja/steps/step-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/ja/steps/step-6/</guid>
+      <guid>/ja/steps/step-6/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-6&#34;&gt;Available Products for Step 6&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>ワイヤー</title>
-      <link>//localhost:4321/ja/steps/step-7/</link>
+      <link>/ja/steps/step-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/ja/steps/step-7/</guid>
+      <guid>/ja/steps/step-7/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-7&#34;&gt;Available Products for Step 7&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>その他</title>
-      <link>//localhost:4321/ja/steps/step-8/</link>
+      <link>/ja/steps/step-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/ja/steps/step-8/</guid>
+      <guid>/ja/steps/step-8/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-8&#34;&gt;Available Products for Step 8&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

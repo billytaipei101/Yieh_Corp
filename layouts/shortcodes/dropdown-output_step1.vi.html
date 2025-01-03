@@ -1,0 +1,112 @@
+<section id="dropdown-section">
+    <div class="dropdown-container">
+        <label for="dropdown1">Steel Grade: </label>
+        <select id="dropdown1">
+            <option value=""></option>
+            <option value="201">201</option>
+            <option value="202">202</option>
+            <option value="304">304</option>
+            <option value="304L">304L</option>
+            <option value="316L">316L</option>
+        </select>
+
+        <label for="dropdown2">Width: </label>
+        <select id="dropdown2">
+            <option value=""></option>
+            {{ range $i := (seq 610 2000) }}
+                <option value="{{ $i }}">{{ $i }}</option>
+            {{ end }}
+        </select>
+
+        <label for="dropdown3">Thickness: </label>
+        <select id="dropdown3">
+            <option value=""></option>
+            {{ $start := 2.0 }}
+            {{ $end := 10.0 }}
+            {{ $step := 0.05 }}
+            {{ range $i := (seq 0 (add (div (sub $end $start) $step) 1)) }}
+                {{ $value := add $start (mul $i $step) }}
+                {{ $roundedValue := printf "%.2f" $value }}
+                <option value="{{ $roundedValue }}">{{ $roundedValue }}</option>
+            {{ end }}
+        </select>
+
+        <label for="dropdown4">Inner Diameter: </label>
+        <select id="dropdown4">
+            <option value=""></option>
+            {{ range $i := (seq 605 610) }}
+                <option value="{{ $i }}">{{ $i }}</option>
+            {{ end }}
+        </select>
+        
+        <label for="dropdown5">Lenght: </label>
+        <select id="dropdown5">
+            <option value=""></option>
+            <option value="3 feet">3 feet</option>
+            <option value="1 meter">1 meter</option>
+            <option value="4 feet">4 feet</option>
+            <option value="5 feet">5 feet</option>
+        </select>
+        
+        <label for="dropdown6">Cut: </label>
+        <select id="dropdown6">
+            <option value=""></option>
+            <option value="Cut Edge">Cut Edge</option>
+            <option value="Mill Edge">Mill Edge</option>
+        </select>
+        
+        <label for="dropdown7">Unit-Ton: </label>
+        <select id="dropdown7">
+          <option value=""></option>
+            {{ range $i := (seq 3 27) }}
+                <option value="{{ $i }}">{{ $i }}</option>
+            {{ end }}
+        </select>
+    </div>
+
+    <div class="output-container">
+          <p style="color: #2975f0;"><strong>Your Order:</strong></p>
+          <p id="output-text" style="color: #2975f0;"></p>
+          <button onclick="copyText()">Copy Text</button>
+    </div>
+</section>
+<script>
+function updateOutput() {
+  const dropdown1 = document.getElementById("dropdown1");
+  const dropdown2 = document.getElementById("dropdown2");
+  const dropdown3 = document.getElementById("dropdown3");
+  const dropdown4 = document.getElementById("dropdown4");
+  const dropdown5 = document.getElementById("dropdown5");
+  const dropdown6 = document.getElementById("dropdown6");
+  const dropdown7 = document.getElementById("dropdown7");
+  const outputText = document.getElementById("output-text");
+
+  let text = "";
+
+  if (dropdown1.value !== "" && dropdown2.value !== "" && dropdown3.value !== "") {
+    text = `
+Stainless Steel Hot Rolled No. 1, Steel Grade: ${dropdown1.value}, Width: ${dropdown2.value}, Thickness: ${dropdown3.value}, Inner Diameter: ${dropdown4.value}, Lenght: ${dropdown5.value}, Cut: ${dropdown6.value}, Unit-Ton: ${dropdown7.value}`;
+  }
+
+  outputText.textContent = text;
+}
+
+function copyText() {
+  const outputText = document.getElementById("output-text");
+  const tempInput = document.createElement("input");
+  tempInput.value = outputText.textContent;
+  document.body.appendChild(tempInput);
+  tempInput.select();
+  document.execCommand("copy");
+  document.body.removeChild(tempInput);
+  alert("Text copied!");
+}
+
+document.getElementById("dropdown1").addEventListener("change", updateOutput);
+document.getElementById("dropdown2").addEventListener("change", updateOutput);
+document.getElementById("dropdown3").addEventListener("change", updateOutput);
+document.getElementById("dropdown4").addEventListener("change", updateOutput);
+document.getElementById("dropdown5").addEventListener("change", updateOutput);
+document.getElementById("dropdown6").addEventListener("change", updateOutput);
+document.getElementById("dropdown7").addEventListener("change", updateOutput);
+</script>

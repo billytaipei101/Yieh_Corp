@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steps on Công ty Cổ phần Yieh Corp Quốc tế (Tiếng Việt)</title>
-    <link>//localhost:4321/vi/steps/</link>
+    <link>/vi/steps/</link>
     <description>Recent content in Steps on Công ty Cổ phần Yieh Corp Quốc tế (Tiếng Việt)</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <atom:link href="//localhost:4321/vi/steps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/vi/steps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thép Không Gỉ</title>
-      <link>//localhost:4321/vi/steps/step-1/</link>
+      <link>/vi/steps/step-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-1/</guid>
+      <guid>/vi/steps/step-1/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-1&#34;&gt;Available Products for Step 1&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Thép Carbon</title>
-      <link>//localhost:4321/vi/steps/step-2/</link>
+      <link>/vi/steps/step-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-2/</guid>
+      <guid>/vi/steps/step-2/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-2&#34;&gt;Available Products for Step 2&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Thép Mạ</title>
-      <link>//localhost:4321/vi/steps/step-3/</link>
+      <link>/vi/steps/step-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-3/</guid>
+      <guid>/vi/steps/step-3/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-3&#34;&gt;Available Products for Step 3&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Nhôm</title>
-      <link>//localhost:4321/vi/steps/step-4/</link>
+      <link>/vi/steps/step-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-4/</guid>
+      <guid>/vi/steps/step-4/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-4&#34;&gt;Available Products for Step 4&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Ống/Tuýp</title>
-      <link>//localhost:4321/vi/steps/step-5/</link>
+      <link>/vi/steps/step-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-5/</guid>
+      <guid>/vi/steps/step-5/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-5&#34;&gt;Available Products for Step 5&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Khác</title>
-      <link>//localhost:4321/vi/steps/step-8/</link>
+      <link>/vi/steps/step-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-8/</guid>
+      <guid>/vi/steps/step-8/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-8&#34;&gt;Available Products for Step 8&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

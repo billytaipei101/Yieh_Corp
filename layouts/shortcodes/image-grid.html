@@ -1,0 +1,38 @@
+<div class="image-grid">
+  {{ range $index, $element := .Params }}
+    {{ $imageUrl := printf "img/%s" $element | absURL }}
+    {{ $caption := "" }}
+    {{ with $.Page.Params.captions }}
+      {{ $caption = index . $index }}
+    {{ end }}
+    <div class="grid-item">
+      <img src="{{ $imageUrl }}" alt="Image" class="grid-image">
+      {{ with $caption }}
+        <p class="image-caption">{{ . }}</p>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>
+
+<style>
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  grid-gap: 10px; /* Adjust gap as needed */
+}
+
+.grid-image {
+  width: 100%;
+  height: auto;
+}
+
+.grid-item {
+  text-align: center; /* Center the caption text */
+}
+
+.image-caption {
+  font-size: 0.8rem; /* Adjust font size as needed */
+  color: #666; /* Adjust color as needed */
+  margin-top: 5px; /* Adjust spacing as needed */
+}
+</style>

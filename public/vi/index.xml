@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chào mừng đến với Yieh Corp (Tiếng Tây Ban Nha) on Công ty Cổ phần Yieh Corp Quốc tế (Tiếng Việt)</title>
-    <link>//localhost:4321/vi/</link>
+    <link>/vi/</link>
     <description>Recent content in Chào mừng đến với Yieh Corp (Tiếng Tây Ban Nha) on Công ty Cổ phần Yieh Corp Quốc tế (Tiếng Việt)</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <atom:link href="//localhost:4321/vi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/vi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thép Không Gỉ</title>
-      <link>//localhost:4321/vi/steps/step-1/</link>
+      <link>/vi/steps/step-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-1/</guid>
+      <guid>/vi/steps/step-1/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-1&#34;&gt;Available Products for Step 1&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Thép Carbon</title>
-      <link>//localhost:4321/vi/steps/step-2/</link>
+      <link>/vi/steps/step-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-2/</guid>
+      <guid>/vi/steps/step-2/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-2&#34;&gt;Available Products for Step 2&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Thép Mạ</title>
-      <link>//localhost:4321/vi/steps/step-3/</link>
+      <link>/vi/steps/step-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-3/</guid>
+      <guid>/vi/steps/step-3/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-3&#34;&gt;Available Products for Step 3&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Nhôm</title>
-      <link>//localhost:4321/vi/steps/step-4/</link>
+      <link>/vi/steps/step-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-4/</guid>
+      <guid>/vi/steps/step-4/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-4&#34;&gt;Available Products for Step 4&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Ống/Tuýp</title>
-      <link>//localhost:4321/vi/steps/step-5/</link>
+      <link>/vi/steps/step-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-5/</guid>
+      <guid>/vi/steps/step-5/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-5&#34;&gt;Available Products for Step 5&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Configuración de la barra de navegación</title>
-      <link>//localhost:4321/vi/nav/</link>
+      <link>/vi/nav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/nav/</guid>
+      <guid>/vi/nav/</guid>
       <description></description>
     </item>
     <item>
       <title>Khác</title>
-      <link>//localhost:4321/vi/steps/step-8/</link>
+      <link>/vi/steps/step-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-8/</guid>
+      <guid>/vi/steps/step-8/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-8&#34;&gt;Available Products for Step 8&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:4321/vi/footer/</link>
+      <link>/vi/footer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/footer/</guid>
+      <guid>/vi/footer/</guid>
       <description></description>
     </item>
     <item>
       <title>Cảm ơn</title>
-      <link>//localhost:4321/vi/thank-you/</link>
+      <link>/vi/thank-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/thank-you/</guid>
+      <guid>/vi/thank-you/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Giải Pháp Liên Tục cho Ngành Công Nghiệp Kim Loại</title>
-      <link>//localhost:4321/vi/how-to/</link>
+      <link>/vi/how-to/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/how-to/</guid>
+      <guid>/vi/how-to/</guid>
       <description></description>
     </item>
     <item>
       <title>Liên hệ</title>
-      <link>//localhost:4321/vi/contact/</link>
+      <link>/vi/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/contact/</guid>
+      <guid>/vi/contact/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Họ và Tên&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Email&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Tin nhắn&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Gửi&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>MDFriday: Giới thiệu Sản phẩm</title>
-      <link>//localhost:4321/vi/product/</link>
+      <link>/vi/product/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/product/</guid>
+      <guid>/vi/product/</guid>
       <description></description>
     </item>
     <item>
       <title>Yieh Corp: Thúc đẩy kinh doanh trên toàn thế giới</title>
-      <link>//localhost:4321/vi/user-trust/</link>
+      <link>/vi/user-trust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/user-trust/</guid>
+      <guid>/vi/user-trust/</guid>
       <description></description>
     </item>
   </channel>
