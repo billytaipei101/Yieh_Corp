@@ -9,6 +9,7 @@ links:
   - "Contact, LinkedIn, https://www.linkedin.com/in/william-cruz-molina-39150347/, true"
   - "Social Media, Facebook, https://www.facebook.com/YiehCorp?sk=wall, true"
   - "Social Media, Instagram, https://www.instagram.com/yieh_corporation/, true"
+  - "Social Media, X, https://x.com/YiehCorp, true"
 ---
 
 # Footer Configuration Field Explanation

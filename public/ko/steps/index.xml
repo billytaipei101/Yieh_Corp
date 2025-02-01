@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steps on 燁무국제(주) (한국어)</title>
-    <link>/ko/steps/</link>
+    <link>//localhost:4743/ko/steps/</link>
     <description>Recent content in Steps on 燁무국제(주) (한국어)</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <atom:link href="/ko/steps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4743/ko/steps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>스테인리스강</title>
-      <link>/ko/steps/step-1/</link>
+      <link>//localhost:4743/ko/steps/step-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/ko/steps/step-1/</guid>
-      <description>&lt;p&gt;    &#xA;    &#xA;    &lt;/p&gt;&#xA;&lt;div class=&#34;image-grid&#34;&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;/img/step_1_a.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;스테인리스 강 열간/냉간 압연 코일&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;/img/step_1_b.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;스테인리스 강 스트립&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;/img/step_1_c.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;스테인리스 강 판&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;/img/step_1_d.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;스테인리스 강 체크 무늬 판&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;/img/step_1_e.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;스테인리스 강 시트&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;/img/step_1_f.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;사전 도색 스테인리스 강 코일/시트&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.image-grid {&#xA;  display: grid;&#xA;  grid-template-columns: repeat(3, 1fr);  &#xA;  grid-gap: 10px;  &#xA;}&#xA;&#xA;.grid-image {&#xA;  width: 100%;&#xA;  height: auto;&#xA;}&#xA;&#xA;.grid-item {&#xA;  text-align: center;  &#xA;}&#xA;&#xA;.image-caption {&#xA;  font-size: 0.8rem;  &#xA;  color: #666;  &#xA;  margin-top: 5px;  &#xA;}&#xA;&lt;/style&gt;&#xA;&lt;p&gt;    &lt;/p&gt;&#xA;&lt;h3 id=&#34;색인&#34;&gt;색인&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ko/steps/step-1/#%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%ec%97%b4%ea%b0%84-%ec%95%95%ec%97%b0-no-1-%ec%bd%94%ec%9d%bc&#34;&gt;스테인리스 강 열간 압연 No.1 코일&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ko/steps/step-1/#%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%eb%83%89%ea%b0%84-%ec%95%95%ec%97%b0-%ec%bd%94%ec%9d%bc&#34;&gt;스테인리스 강 냉간 압연 코일&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ko/steps/step-1/#%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%ec%8a%a4%ed%8a%b8%eb%a6%bd&#34;&gt;스테인리스 강 스트립&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ko/steps/step-1/#%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%ed%8c%90&#34;&gt;스테인리스 강 판&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ko/steps/step-1/#%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%ec%b2%b4%ed%81%ac-%eb%ac%b4%eb%8a%ac-%ed%8c%90&#34;&gt;스테인리스 강 체크 무늬 판&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ko/steps/step-1/#%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%ec%8b%9c%ed%8a%b8&#34;&gt;스테인리스 강 시트&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/ko/steps/step-1/#%ec%82%ac%ec%a0%84-%eb%8f%84%ec%83%89-%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%ec%bd%94%ec%9d%bc-%ec%8b%9c%ed%8a%b8&#34;&gt;사전 도색 스테인리스 강 코일-시트&lt;/a&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;    &lt;/p&gt;</description>
+      <guid>//localhost:4743/ko/steps/step-1/</guid>
+      <description>&lt;p&gt;    &#xA;    &#xA;    &lt;/p&gt;&#xA;&lt;div class=&#34;image-grid&#34;&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4743/img/step_1_a.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;스테인리스 강 열간/냉간 압연 코일&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4743/img/step_1_b.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;스테인리스 강 스트립&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4743/img/step_1_c.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;스테인리스 강 판&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4743/img/step_1_d.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;스테인리스 강 체크 무늬 판&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4743/img/step_1_e.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;스테인리스 강 시트&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4743/img/step_1_f.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;사전 도색 스테인리스 강 코일/시트&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.image-grid {&#xA;  display: grid;&#xA;  grid-template-columns: repeat(3, 1fr);  &#xA;  grid-gap: 10px;  &#xA;}&#xA;&#xA;.grid-image {&#xA;  width: 100%;&#xA;  height: auto;&#xA;}&#xA;&#xA;.grid-item {&#xA;  text-align: center;  &#xA;}&#xA;&#xA;.image-caption {&#xA;  font-size: 0.8rem;  &#xA;  color: #666;  &#xA;  margin-top: 5px;  &#xA;}&#xA;&lt;/style&gt;&#xA;&lt;p&gt;    &lt;/p&gt;&#xA;&lt;h3 id=&#34;색인&#34;&gt;색인&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/ko/steps/step-1/#%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%ec%97%b4%ea%b0%84-%ec%95%95%ec%97%b0-no-1-%ec%bd%94%ec%9d%bc&#34;&gt;스테인리스 강 열간 압연 No.1 코일&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/ko/steps/step-1/#%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%eb%83%89%ea%b0%84-%ec%95%95%ec%97%b0-%ec%bd%94%ec%9d%bc&#34;&gt;스테인리스 강 냉간 압연 코일&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/ko/steps/step-1/#%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%ec%8a%a4%ed%8a%b8%eb%a6%bd&#34;&gt;스테인리스 강 스트립&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/ko/steps/step-1/#%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%ed%8c%90&#34;&gt;스테인리스 강 판&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/ko/steps/step-1/#%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%ec%b2%b4%ed%81%ac-%eb%ac%b4%eb%8a%ac-%ed%8c%90&#34;&gt;스테인리스 강 체크 무늬 판&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/ko/steps/step-1/#%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%ec%8b%9c%ed%8a%b8&#34;&gt;스테인리스 강 시트&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/ko/steps/step-1/#%ec%82%ac%ec%a0%84-%eb%8f%84%ec%83%89-%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ea%b0%95-%ec%bd%94%ec%9d%bc-%ec%8b%9c%ed%8a%b8&#34;&gt;사전 도색 스테인리스 강 코일-시트&lt;/a&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;    &lt;/p&gt;</description>
     </item>
     <item>
       <title>탄소강</title>
-      <link>/ko/steps/step-2/</link>
+      <link>//localhost:4743/ko/steps/step-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/ko/steps/step-2/</guid>
+      <guid>//localhost:4743/ko/steps/step-2/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-2&#34;&gt;Available Products for Step 2&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>코팅강</title>
-      <link>/ko/steps/step-3/</link>
+      <link>//localhost:4743/ko/steps/step-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/ko/steps/step-3/</guid>
+      <guid>//localhost:4743/ko/steps/step-3/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-3&#34;&gt;Available Products for Step 3&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>알루미늄</title>
-      <link>/ko/steps/step-4/</link>
+      <link>//localhost:4743/ko/steps/step-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/ko/steps/step-4/</guid>
+      <guid>//localhost:4743/ko/steps/step-4/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-4&#34;&gt;Available Products for Step 4&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>파이프/튜브</title>
-      <link>/ko/steps/step-5/</link>
+      <link>//localhost:4743/ko/steps/step-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/ko/steps/step-5/</guid>
+      <guid>//localhost:4743/ko/steps/step-5/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-5&#34;&gt;Available Products for Step 5&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>바</title>
-      <link>/ko/steps/step-6/</link>
+      <link>//localhost:4743/ko/steps/step-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/ko/steps/step-6/</guid>
+      <guid>//localhost:4743/ko/steps/step-6/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-6&#34;&gt;Available Products for Step 6&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>와이어 로드</title>
-      <link>/ko/steps/step-7/</link>
+      <link>//localhost:4743/ko/steps/step-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/ko/steps/step-7/</guid>
+      <guid>//localhost:4743/ko/steps/step-7/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-7&#34;&gt;Available Products for Step 7&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>기타</title>
-      <link>/ko/steps/step-8/</link>
+      <link>//localhost:4743/ko/steps/step-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/ko/steps/step-8/</guid>
+      <guid>//localhost:4743/ko/steps/step-8/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-8&#34;&gt;Available Products for Step 8&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

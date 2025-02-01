@@ -9,5 +9,6 @@ links:
   - "ติดต่อเรา, LinkedIn, https://www.linkedin.com/in/william-cruz-molina-39150347/, true"
   - "โซเชียลมีเดีย, Facebook, https://www.facebook.com/YiehCorp?sk=wall, true"
   - "โซเชียลมีเดีย, Instagram, https://www.instagram.com/yieh_corporation/, true"
+  - "โซเชียลมีเดีย, X, https://x.com/YiehCorp, true"
 
 ---

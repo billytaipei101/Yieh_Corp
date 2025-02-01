@@ -2,697 +2,697 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/es/steps/step-1/</loc>
+    <loc>//localhost:4743/es/steps/step-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/steps/step-1/"
+                href="//localhost:4743/en/steps/step-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/steps/step-1/"
+                href="//localhost:4743/zh/steps/step-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/steps/step-1/"
+                href="//localhost:4743/ja/steps/step-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/steps/step-1/"
+                href="//localhost:4743/ko/steps/step-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/steps/step-1/"
+                href="//localhost:4743/th/steps/step-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/steps/step-1/"
+                href="//localhost:4743/vi/steps/step-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/steps/step-1/"
+                href="//localhost:4743/es/steps/step-1/"
                 />
   </url><url>
-    <loc>/es/steps/step-2/</loc>
+    <loc>//localhost:4743/es/steps/step-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/steps/step-2/"
+                href="//localhost:4743/en/steps/step-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/steps/step-2/"
+                href="//localhost:4743/zh/steps/step-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/steps/step-2/"
+                href="//localhost:4743/ja/steps/step-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/steps/step-2/"
+                href="//localhost:4743/ko/steps/step-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/steps/step-2/"
+                href="//localhost:4743/th/steps/step-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/steps/step-2/"
+                href="//localhost:4743/vi/steps/step-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/steps/step-2/"
+                href="//localhost:4743/es/steps/step-2/"
                 />
   </url><url>
-    <loc>/es/nav/</loc>
+    <loc>//localhost:4743/es/nav/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/nav/"
+                href="//localhost:4743/nav/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/nav/"
+                href="//localhost:4743/zh/nav/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/nav/"
+                href="//localhost:4743/ja/nav/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/nav/"
+                href="//localhost:4743/ko/nav/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/nav/"
+                href="//localhost:4743/th/nav/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/nav/"
+                href="//localhost:4743/vi/nav/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/nav/"
+                href="//localhost:4743/es/nav/"
                 />
   </url><url>
-    <loc>/es/steps/step-3/</loc>
+    <loc>//localhost:4743/es/steps/step-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/steps/step-3/"
+                href="//localhost:4743/en/steps/step-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/steps/step-3/"
+                href="//localhost:4743/zh/steps/step-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/steps/step-3/"
+                href="//localhost:4743/ja/steps/step-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/steps/step-3/"
+                href="//localhost:4743/ko/steps/step-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/steps/step-3/"
+                href="//localhost:4743/th/steps/step-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/steps/step-3/"
+                href="//localhost:4743/vi/steps/step-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/steps/step-3/"
+                href="//localhost:4743/es/steps/step-3/"
                 />
   </url><url>
-    <loc>/es/steps/step-4/</loc>
+    <loc>//localhost:4743/es/steps/step-4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/steps/step-4/"
+                href="//localhost:4743/en/steps/step-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/steps/step-4/"
+                href="//localhost:4743/zh/steps/step-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/steps/step-4/"
+                href="//localhost:4743/ja/steps/step-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/steps/step-4/"
+                href="//localhost:4743/ko/steps/step-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/steps/step-4/"
+                href="//localhost:4743/th/steps/step-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/steps/step-4/"
+                href="//localhost:4743/vi/steps/step-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/steps/step-4/"
+                href="//localhost:4743/es/steps/step-4/"
                 />
   </url><url>
-    <loc>/es/steps/step-5/</loc>
+    <loc>//localhost:4743/es/steps/step-5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/steps/step-5/"
+                href="//localhost:4743/en/steps/step-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/steps/step-5/"
+                href="//localhost:4743/zh/steps/step-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/steps/step-5/"
+                href="//localhost:4743/ja/steps/step-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/steps/step-5/"
+                href="//localhost:4743/ko/steps/step-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/steps/step-5/"
+                href="//localhost:4743/th/steps/step-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/steps/step-5/"
+                href="//localhost:4743/vi/steps/step-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/steps/step-5/"
+                href="//localhost:4743/es/steps/step-5/"
                 />
   </url><url>
-    <loc>/es/steps/step-6/</loc>
+    <loc>//localhost:4743/es/steps/step-6/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/steps/step-6/"
+                href="//localhost:4743/en/steps/step-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/steps/step-6/"
+                href="//localhost:4743/zh/steps/step-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/steps/step-6/"
+                href="//localhost:4743/ja/steps/step-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/steps/step-6/"
+                href="//localhost:4743/ko/steps/step-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/steps/step-6/"
+                href="//localhost:4743/th/steps/step-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/steps/step-6/"
+                href="//localhost:4743/es/steps/step-6/"
                 />
   </url><url>
-    <loc>/es/steps/step-7/</loc>
+    <loc>//localhost:4743/es/steps/step-7/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/steps/step-7/"
+                href="//localhost:4743/en/steps/step-7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/steps/step-7/"
+                href="//localhost:4743/zh/steps/step-7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/steps/step-7/"
+                href="//localhost:4743/ja/steps/step-7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/steps/step-7/"
+                href="//localhost:4743/ko/steps/step-7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/steps/step-7/"
+                href="//localhost:4743/th/steps/step-7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/steps/step-7/"
+                href="//localhost:4743/es/steps/step-7/"
                 />
   </url><url>
-    <loc>/es/steps/step-8/</loc>
+    <loc>//localhost:4743/es/steps/step-8/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/steps/step-8/"
+                href="//localhost:4743/en/steps/step-8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/steps/step-8/"
+                href="//localhost:4743/zh/steps/step-8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/steps/step-8/"
+                href="//localhost:4743/ja/steps/step-8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/steps/step-8/"
+                href="//localhost:4743/ko/steps/step-8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/steps/step-8/"
+                href="//localhost:4743/th/steps/step-8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/steps/step-8/"
+                href="//localhost:4743/vi/steps/step-8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/steps/step-8/"
+                href="//localhost:4743/es/steps/step-8/"
                 />
   </url><url>
-    <loc>/es/footer/</loc>
+    <loc>//localhost:4743/es/footer/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/footer/"
+                href="//localhost:4743/footer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/footer/"
+                href="//localhost:4743/zh/footer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/footer/"
+                href="//localhost:4743/ja/footer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/footer/"
+                href="//localhost:4743/ko/footer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/footer/"
+                href="//localhost:4743/th/footer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/footer/"
+                href="//localhost:4743/vi/footer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/footer/"
+                href="//localhost:4743/es/footer/"
                 />
   </url><url>
-    <loc>/es/</loc>
+    <loc>//localhost:4743/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="//localhost:4743/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/"
+                href="//localhost:4743/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/"
+                href="//localhost:4743/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/"
+                href="//localhost:4743/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/"
+                href="//localhost:4743/th/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/"
+                href="//localhost:4743/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="//localhost:4743/es/"
                 />
   </url><url>
-    <loc>/es/categories/</loc>
+    <loc>//localhost:4743/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="//localhost:4743/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/categories/"
+                href="//localhost:4743/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/categories/"
+                href="//localhost:4743/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/categories/"
+                href="//localhost:4743/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/categories/"
+                href="//localhost:4743/th/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/categories/"
+                href="//localhost:4743/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="//localhost:4743/es/categories/"
                 />
   </url><url>
-    <loc>/es/contact/</loc>
+    <loc>//localhost:4743/es/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact/"
+                href="//localhost:4743/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/contact/"
+                href="//localhost:4743/zh/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/contact/"
+                href="//localhost:4743/ja/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/contact/"
+                href="//localhost:4743/ko/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/contact/"
+                href="//localhost:4743/th/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/contact/"
+                href="//localhost:4743/vi/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/contact/"
+                href="//localhost:4743/es/contact/"
                 />
   </url><url>
-    <loc>/es/product/</loc>
+    <loc>//localhost:4743/es/product/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/product/"
+                href="//localhost:4743/product/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/product/"
+                href="//localhost:4743/zh/product/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/product/"
+                href="//localhost:4743/ja/product/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/product/"
+                href="//localhost:4743/ko/product/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/product/"
+                href="//localhost:4743/th/product/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/product/"
+                href="//localhost:4743/vi/product/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/product/"
+                href="//localhost:4743/es/product/"
                 />
   </url><url>
-    <loc>/es/how-to/</loc>
+    <loc>//localhost:4743/es/how-to/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/how-to/"
+                href="//localhost:4743/how-to/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/how-to/"
+                href="//localhost:4743/zh/how-to/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/how-to/"
+                href="//localhost:4743/ja/how-to/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/how-to/"
+                href="//localhost:4743/ko/how-to/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/how-to/"
+                href="//localhost:4743/th/how-to/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/how-to/"
+                href="//localhost:4743/vi/how-to/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/how-to/"
+                href="//localhost:4743/es/how-to/"
                 />
   </url><url>
-    <loc>/es/steps/</loc>
+    <loc>//localhost:4743/es/steps/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/steps/"
+                href="//localhost:4743/steps/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/steps/"
+                href="//localhost:4743/zh/steps/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/steps/"
+                href="//localhost:4743/ja/steps/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/steps/"
+                href="//localhost:4743/ko/steps/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/steps/"
+                href="//localhost:4743/th/steps/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/steps/"
+                href="//localhost:4743/vi/steps/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/steps/"
+                href="//localhost:4743/es/steps/"
                 />
   </url><url>
-    <loc>/es/tags/</loc>
+    <loc>//localhost:4743/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="//localhost:4743/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/tags/"
+                href="//localhost:4743/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/tags/"
+                href="//localhost:4743/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/tags/"
+                href="//localhost:4743/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/tags/"
+                href="//localhost:4743/th/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/tags/"
+                href="//localhost:4743/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="//localhost:4743/es/tags/"
                 />
   </url><url>
-    <loc>/es/thank-you/</loc>
+    <loc>//localhost:4743/es/thank-you/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/thank-you/"
+                href="//localhost:4743/thank-you/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/thank-you/"
+                href="//localhost:4743/zh/thank-you/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/thank-you/"
+                href="//localhost:4743/ja/thank-you/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/thank-you/"
+                href="//localhost:4743/ko/thank-you/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/thank-you/"
+                href="//localhost:4743/th/thank-you/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/thank-you/"
+                href="//localhost:4743/vi/thank-you/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/thank-you/"
+                href="//localhost:4743/es/thank-you/"
                 />
   </url><url>
-    <loc>/es/user-trust/</loc>
+    <loc>//localhost:4743/es/user-trust/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/user-trust/"
+                href="//localhost:4743/user-trust/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/user-trust/"
+                href="//localhost:4743/zh/user-trust/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/user-trust/"
+                href="//localhost:4743/ja/user-trust/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/user-trust/"
+                href="//localhost:4743/ko/user-trust/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="/th/user-trust/"
+                href="//localhost:4743/th/user-trust/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/user-trust/"
+                href="//localhost:4743/vi/user-trust/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/user-trust/"
+                href="//localhost:4743/es/user-trust/"
                 />
   </url>
 </urlset>

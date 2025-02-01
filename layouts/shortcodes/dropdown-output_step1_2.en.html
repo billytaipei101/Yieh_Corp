@@ -1,0 +1,128 @@
+<section id="dropdown-section_step1_2">
+    <div class="dropdown-container">
+        <label for="dropdown1_step1_2">Steel Grade: </label>
+        <select id="dropdown1_step1_2">
+            <option value=""></option>
+            <option value="201">201</option>
+            <option value="202">202</option>
+            <option value="204 Cu3">204 Cu3</option>
+            <option value="301">301</option>
+            <option value="304">304</option>
+            <option value="304L">304L</option>
+            <option value="310S">310S</option>
+            <option value="316L">316L</option>
+            <option value="321">321</option>
+            <option value="409L">409L</option>
+            <option value="410S">410S</option>
+            <option value="420J2">420J2</option>
+            <option value="430">430</option>
+            <option value="439">439</option>
+            <option value="441">441</option>
+            <option value="444">445</option>
+        </select>
+
+        <label for="dropdown2_step1_2">Width (mm): </label>
+        <select id="dropdown2_step1_2">
+            <option value=""></option>
+            {{ range $i := (seq 610 1524) }}
+                <option value="{{ $i }}">{{ $i }}</option>
+            {{ end }}
+        </select>
+
+        <label for="dropdown3_step1_2">Thickness (mm): </label>
+        <select id="dropdown3_step1_2">
+            <option value=""></option>
+            {{ $start := 0.3 }}
+            {{ $end := 3.0 }}
+            {{ $step := 0.05 }}
+            {{ range $i := (seq 0 (add (div (sub $end $start) $step) 1)) }}
+                {{ $value := add $start (mul $i $step) }}
+                {{ $roundedValue := printf "%.2f" $value }}
+                <option value="{{ $roundedValue }}">{{ $roundedValue }}</option>
+            {{ end }}
+        </select>
+
+        <label for="dropdown4_step1_2">Inner Diameter (mm): </label>
+        <select id="dropdown4_step1_2">
+            <option value=""></option>
+            {{ range $i := (seq 503 508) }}
+                <option value="{{ $i }}">{{ $i }}</option>
+            {{ end }}
+            <option value="610">610</option>
+        </select>
+        
+        <label for="dropdown5_step1_2">Surface Finish: </label>
+        <select id="dropdown5_step1_2">
+            <option value=""></option>
+            <option value="2B">2B</option>
+            <option value="2D">2D</option>
+            <option value="BA">BA</option>
+            <option value="No. 3">No. 3</option>
+            <option value="No. 4">No. 4</option>
+            <option value="No. 5">No. 5</option>
+            <option value="SB">SB</option>
+            <option value="HL">HL</option>
+        </select>
+        
+        <label for="dropdown6_step1_2">Cut: </label>
+        <select id="dropdown6_step1_2">
+            <option value=""></option>
+            <option value="Cut Edge">Cut Edge</option>
+            <option value="Mill Edge">Mill Edge</option>
+        </select>
+        
+        <label for="dropdown7_step1_2">Unit-Ton: </label>
+        <select id="dropdown7_step1_2">
+          <option value=""></option>
+            {{ range $i := (seq 3 27) }}
+                <option value="{{ $i }}">{{ $i }}</option>
+            {{ end }}
+        </select>
+    </div>
+
+    <div class="output-container">
+          <p style="color: #2975f0;"><strong>Your Order:</strong></p>
+          <p id="output-text_step1_2" style="color: #2975f0;"></p>
+          <button onclick="copyText()">Copy Text</button>
+    </div>
+</section>
+<script>
+function updateOutput() {
+  const dropdown1 = document.getElementById("dropdown1_step1_2");
+  const dropdown2 = document.getElementById("dropdown2_step1_2");
+  const dropdown3 = document.getElementById("dropdown3_step1_2");
+  const dropdown4 = document.getElementById("dropdown4_step1_2");
+  const dropdown5 = document.getElementById("dropdown5_step1_2");
+  const dropdown6 = document.getElementById("dropdown6_step1_2");
+  const dropdown7 = document.getElementById("dropdown7_step1_2");
+  const outputText = document.getElementById("output-text_step1_2");
+
+  let text = "";
+
+  if (dropdown1.value !== "" && dropdown2.value !== "" && dropdown3.value !== "") {
+    text = `
+Stainless Steel Cold Rolled Coil, Steel Grade: ${dropdown1.value}, Width (mm): ${dropdown2.value}, Thickness (mm): ${dropdown3.value}, Inner Diameter (mm): ${dropdown4.value}, Surface Finish: ${dropdown5.value}, Cut: ${dropdown6.value}, Unit-Ton: ${dropdown7.value}`;
+  }
+
+  outputText.textContent = text;
+}
+
+function copyText() {
+  const outputText = document.getElementById("output-text_step1_2");
+  const tempInput = document.createElement("input");
+  tempInput.value = outputText.textContent;
+  document.body.appendChild(tempInput);
+  tempInput.select();
+  document.execCommand("copy");
+  document.body.removeChild(tempInput);
+  alert("Text copied!");
+}
+
+document.getElementById("dropdown1_step1_2").addEventListener("change", updateOutput);
+document.getElementById("dropdown2_step1_2").addEventListener("change", updateOutput);
+document.getElementById("dropdown3_step1_2").addEventListener("change", updateOutput);
+document.getElementById("dropdown4_step1_2").addEventListener("change", updateOutput);
+document.getElementById("dropdown5_step1_2").addEventListener("change", updateOutput);
+document.getElementById("dropdown6_step1_2").addEventListener("change", updateOutput);
+document.getElementById("dropdown7_step1_2").addEventListener("change", updateOutput);
+</script>

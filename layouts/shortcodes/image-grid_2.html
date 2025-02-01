@@ -1,0 +1,27 @@
+<div class="image-grid">
+  {{ range first 2 .Params }}
+    {{ $imageUrl := printf "img/%s" . | absURL }}
+    <div class="grid-item">
+      <img src="{{ $imageUrl }}" alt="Image" class="grid-image-2">
+    </div>
+  {{ end }}
+</div>
+
+<style>
+.image-grid_2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  grid-gap: 10px; /* Adjust gap as needed */
+}
+
+.grid-image-2 {
+  width: 70%; /* Adjust width as needed */
+  height: auto;
+}
+
+.grid-item {
+  text-align: center; /* Center the caption text */
+  margin: 0 auto;
+}
+
+</style>

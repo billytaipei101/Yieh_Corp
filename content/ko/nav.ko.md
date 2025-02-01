@@ -14,6 +14,7 @@ right_links:
   - "한국어, /ko/, true"
   - "ภาษาไทย, /th/, true"
   - "Tiếng Việt, /vi/, true"
+  - "العربية, #, false"
   
 ---
 

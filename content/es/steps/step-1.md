@@ -46,7 +46,7 @@ Stainless steel's superior processing performance and weldability, combined with
 &nbsp;&nbsp;&nbsp;&nbsp;
 ### Personalize su pedido
 &nbsp;&nbsp;&nbsp;&nbsp;
-{{< dropdown-output_step1 >}}
+{{< dropdown-output_step1_1 >}}
 
 *Kindly copy your order details and send them to us via [__email__](#contact) or through any of the [__messaging options__](#footer) available in the contact section.*
 &nbsp;&nbsp;&nbsp;&nbsp;

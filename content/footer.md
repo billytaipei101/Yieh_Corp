@@ -3,11 +3,13 @@ description: |
   Leading provider of high-quality metal products, specializing in a wide range of materials and forms to meet diverse industrial and commercial needs.
 address: "Kaoshiung City, Taiwan"
 links:
-  - "Resources, Products, /#how-to, true"   
+  - "Contact, WhatsApp, https://wa.me/886966159200?text=Hello%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20products, true"
+  - "Contact, Line, https://line.me/ti/p/Fh_n-t5VgK, true" 
+  - "Contact, Telegram, https://t.me/billytaipei, true"
+  - "Contact, LinkedIn, https://www.linkedin.com/in/william-cruz-molina-39150347/, true"
   - "Social Media, Facebook, https://www.facebook.com/YiehCorp?sk=wall, true"
   - "Social Media, Instagram, https://www.instagram.com/yieh_corporation/, true"
-  - "Social Media, WhatsApp, https://wa.me/886966159200?text=Hello%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20products, true"
-  - "Social Media, Line, https://line.me/ti/p/Fh_n-t5VgK, true" 
+  - "Social Media, X, https://x.com/YiehCorp, true"
 ---
 
 # Footer Configuration Field Explanation
@@ -20,6 +22,7 @@ links:
     - Example: `"Social Media, Facebook, https://www.facebook.com/YiehCorp?sk=wall, true"` 
     - Example: `"Social Media, Instagram, https://www.instagram.com/yieh_corporation/, true"` 
     - Example: `"Social Media, WhatsApp, https://wa.me/886966159200?text=Hello%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20products, true"`
+    - Example: `"Social Media, X, https://x.com/YiehCorp, true"` 
 
 #### Notes:
 - Links within the same category (e.g., multiple "Resources" links) are listed consecutively under the same category name.

@@ -9,5 +9,5 @@ links:
   - "お問い合わせ, LinkedIn, https://www.linkedin.com/in/william-cruz-molina-39150347/, true"
   - "ソーシャルメディア, Facebook, https://www.facebook.com/YiehCorp?sk=wall, true"
   - "ソーシャルメディア, Instagram, https://www.instagram.com/yieh_corporation/, true"
-  
+  - "ソーシャルメディア, X, https://x.com/YiehCorp, true"
 ---

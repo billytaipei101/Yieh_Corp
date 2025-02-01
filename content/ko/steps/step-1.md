@@ -48,7 +48,7 @@ Stainless steel's superior processing performance and weldability, combined with
 &nbsp;&nbsp;&nbsp;&nbsp;
 ### 주문을 맞춤화하세요
 &nbsp;&nbsp;&nbsp;&nbsp;
-{{< dropdown-output_step1 >}}
+{{< dropdown-output_step1_1 >}}
 
 *Kindly copy your order details and send them to us via [__email__](#contact) or through any of the [__messaging options__](#footer) available in the contact section.*
 &nbsp;&nbsp;&nbsp;&nbsp;

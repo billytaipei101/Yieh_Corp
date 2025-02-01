@@ -49,3 +49,8 @@ module:
 params:
   Author: william_Cruz
   internalLinkTarget: _self
+  
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

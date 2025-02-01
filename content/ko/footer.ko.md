@@ -9,4 +9,5 @@ links:
   - "연락처, LinkedIn, https://www.linkedin.com/in/william-cruz-molina-39150347/, true"
   - "소셜 미디어, Facebook, https://www.facebook.com/YiehCorp?sk=wall, true"
   - "소셜 미디어, Instagram, https://www.instagram.com/yieh_corporation/, true"
+  - "소셜 미디어, X, https://x.com/YiehCorp, true"
 ---

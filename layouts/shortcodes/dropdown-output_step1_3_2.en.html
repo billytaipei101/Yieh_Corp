@@ -1,0 +1,79 @@
+<section id="dropdown-section_step1_3_2">
+    <div class="dropdown-container">
+        <label for="dropdown1_step1_3_2">Steel Grade: </label>
+        <select id="dropdown1_step1_3_2">
+            <option value=""></option>
+            <option value="304">304</option>
+            <option value="304L">304L</option>
+            <option value="316L">316L</option>
+        </select>
+
+        <label for="dropdown2_step1_3_2">Width (mm): </label>
+        <select id="dropdown2_step1_3_2">
+            <option value=""></option>
+            {{ range $i := (seq 16 609.6) }}
+                <option value="{{ $i }}">{{ $i }}</option>
+            {{ end }}
+        </select>
+
+        <label for="dropdown3_step1_3_2">Thickness (mm): </label>
+        <select id="dropdown3_step1_3_2">
+            <option value=""></option>
+            {{ $start := 2.5 }}
+            {{ $end := 10.0 }}
+            {{ $step := 0.05 }}
+            {{ range $i := (seq 0 (add (div (sub $end $start) $step) 1)) }}
+                {{ $value := add $start (mul $i $step) }}
+                {{ $roundedValue := printf "%.2f" $value }}
+                <option value="{{ $roundedValue }}">{{ $roundedValue }}</option>
+            {{ end }}
+        </select>
+        
+        <label for="dropdown4_step1_3_2">Surface Finish: </label>
+        <select id="dropdown4_step1_3_2">
+            <option value=""></option>
+            <option value="No. 1">No. 1</option>
+        </select>
+        
+    </div>
+
+    <div class="output-container">
+          <p style="color: #2975f0;"><strong>Your Order:</strong></p>
+          <p id="output-text_step1_3_2" style="color: #2975f0;"></p>
+          <button onclick="copyText()">Copy Text</button>
+    </div>
+</section>
+<script>
+function updateOutput() {
+  const dropdown1 = document.getElementById("dropdown1_step1_3_2");
+  const dropdown2 = document.getElementById("dropdown2_step1_3_2");
+  const dropdown3 = document.getElementById("dropdown3_step1_3_2");
+  const dropdown4 = document.getElementById("dropdown4_step1_3_2");
+  const outputText = document.getElementById("output-text_step1_3_2");
+
+  let text = "";
+
+  if (dropdown1.value !== "" && dropdown2.value !== "" && dropdown3.value !== "") {
+    text = `
+Stainless Steel Cold Rolled Strip, Steel Grade: ${dropdown1.value}, Width (mm): ${dropdown2.value}, Thickness (mm): ${dropdown3.value}, Surface Finish: ${dropdown4.value}`;
+  }
+
+  outputText.textContent = text;
+}
+
+function copyText() {
+  const outputText = document.getElementById("output-text_step1_3_2");
+  const tempInput = document.createElement("input");
+  tempInput.value = outputText.textContent;
+  document.body.appendChild(tempInput);
+  tempInput.select();
+  document.execCommand("copy");
+  document.body.removeChild(tempInput);
+  alert("Text copied!");
+}
+
+document.getElementById("dropdown1_step1_3_2").addEventListener("change", updateOutput);
+document.getElementById("dropdown2_step1_3_2").addEventListener("change", updateOutput);
+document.getElementById("dropdown3_step1_3_2").addEventListener("change", updateOutput);
+document.getElementById("dropdown4_step1_3_2").addEventListener("change", updateOutput);
+</script>
