@@ -2015,3 +2015,37 @@ transition: transform .2s ease;
   color: #1a53b3; /* Darker blue on hover */
   text-decoration: none; /* Remove underline on hover */
 }
+
+/* NEW */
+/* Style for the button container */
+.button-container {
+    display: flex;
+    justify-content: flex-end; /* Aligns the button to the right */
+    align-items: center; /* Centers the button vertically */
+    width: 50%; /* Ensures the button is in the right half */
+}
+
+/* Style for the button with a blue border */
+.suppliers-button {
+    background-color: transparent; /* Transparent background */
+    color: #007BFF; /* Blue text */
+    padding: 10px 20px; /* Padding for the button */
+    border: 2px solid #007BFF; /* Blue border */
+    border-radius: 25px; /* Softened edges */
+    text-decoration: none; /* Removes underline from the link */
+    font-size: 16px; /* Adjust font size as needed */
+    font-weight: bold; /* Makes the text bold */
+    transition: all 0.3s ease; /* Smooth hover effect */
+    display: inline-block; /* Ensures the button behaves like a block element */
+}
+
+/* Hover effect for the button */
+.suppliers-button:hover {
+    background-color: #007BFF; /* Blue background on hover */
+    color: white; /* White text on hover */
+}
+
+#user-trust .suppliers-button {
+    border: 2px solid #007BFF !important; /* Force blue border */
+}
+/* END */
