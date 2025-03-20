@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ยินดีต้อนh Corp (สเปน) on Company Xัด (ไทย)</title>
-    <link>/th/</link>
+    <link>//localhost:4321/th/</link>
     <description>Recent content in ยินดีต้อนh Corp (สเปน) on Company Xัด (ไทย)</description>
     <generator>Hugo</generator>
     <language>th</language>
-    <atom:link href="/th/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/th/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>x1</title>
-      <link>/th/steps/step-1/</link>
+      <link>//localhost:4321/th/steps/step-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/steps/step-1/</guid>
+      <guid>//localhost:4321/th/steps/step-1/</guid>
       <description></description>
     </item>
     <item>
       <title>x2</title>
-      <link>/th/steps/step-2/</link>
+      <link>//localhost:4321/th/steps/step-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/steps/step-2/</guid>
+      <guid>//localhost:4321/th/steps/step-2/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-2&#34;&gt;Available Products for Step 2&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x3</title>
-      <link>/th/steps/step-3/</link>
+      <link>//localhost:4321/th/steps/step-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/steps/step-3/</guid>
+      <guid>//localhost:4321/th/steps/step-3/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-3&#34;&gt;Available Products for Step 3&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x4</title>
-      <link>/th/steps/step-4/</link>
+      <link>//localhost:4321/th/steps/step-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/steps/step-4/</guid>
+      <guid>//localhost:4321/th/steps/step-4/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-4&#34;&gt;Available Products for Step 4&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x5</title>
-      <link>/th/steps/step-5/</link>
+      <link>//localhost:4321/th/steps/step-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/steps/step-5/</guid>
+      <guid>//localhost:4321/th/steps/step-5/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-5&#34;&gt;Available Products for Step 5&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Configuración de la barra de navegación</title>
-      <link>/th/nav/</link>
+      <link>//localhost:4321/th/nav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/nav/</guid>
+      <guid>//localhost:4321/th/nav/</guid>
       <description></description>
     </item>
     <item>
       <title>x6</title>
-      <link>/th/steps/step-6/</link>
+      <link>//localhost:4321/th/steps/step-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/steps/step-6/</guid>
+      <guid>//localhost:4321/th/steps/step-6/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-6&#34;&gt;Available Products for Step 6&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x7</title>
-      <link>/th/steps/step-7/</link>
+      <link>//localhost:4321/th/steps/step-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/steps/step-7/</guid>
+      <guid>//localhost:4321/th/steps/step-7/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-7&#34;&gt;Available Products for Step 7&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x8</title>
-      <link>/th/steps/step-8/</link>
+      <link>//localhost:4321/th/steps/step-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/steps/step-8/</guid>
+      <guid>//localhost:4321/th/steps/step-8/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-8&#34;&gt;Available Products for Step 8&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>/th/footer/</link>
+      <link>//localhost:4321/th/footer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/footer/</guid>
+      <guid>//localhost:4321/th/footer/</guid>
       <description></description>
     </item>
     <item>
       <title>MDFriday: การแนะนำผลิตภัณฑ์</title>
-      <link>/th/product/</link>
+      <link>//localhost:4321/th/product/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/product/</guid>
+      <guid>//localhost:4321/th/product/</guid>
       <description></description>
     </item>
     <item>
       <title>ขอบคุณ</title>
-      <link>/th/thank-you/</link>
+      <link>//localhost:4321/th/thank-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/thank-you/</guid>
-      <description>&lt;div class=&#34;thank-you-message&#34;&gt;&#xA;  &lt;h1&gt;ขอบคุณสำหรับข้อความของคุณ!&lt;/h1&gt;&#xA;  &lt;p&gt;เราได้รับคำขอของคุณแล้ว และจะตอบกลับโดยเร็วที่สุด&lt;/p&gt;&#xA;  &lt;a href=&#34;/&#34; class=&#34;button&#34;&gt;กลับไปที่หน้าหลัก&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;style&gt;&#xA;.thank-you-message {&#xA;  text-align: center;&#xA;  padding: 50px;&#xA;  background-color: #f8f8f8; /* พื้นหลังสีอ่อน - ปรับแต่งตามต้องการ */&#xA;}&#xA;&#xA;.thank-you-message h1 {&#xA;  color: #29305f; /* สีหัวข้อสีฟ้ากลาง */&#xA;  font-size: 2.5rem; /* ปรับขนาดหัวข้อได้ตามต้องการ */&#xA;}&#xA;&#xA;.thank-you-message p {&#xA;  color: #545454; /* สีข้อความเทาเข้ม */&#xA;  font-size: 1.1rem;&#xA;}&#xA;&#xA;.button {&#xA;  background-color: #29305f; /* สีปุ่มฟ้ากลาง */&#xA;  color: white;&#xA;  padding: 10px 20px;&#xA;  text-decoration: none;&#xA;  border-radius: 5px;&#xA;  display: inline-block;&#xA;  margin-top: 20px;&#xA;}&#xA;&lt;/style&gt;</description>
+      <guid>//localhost:4321/th/thank-you/</guid>
+      <description>&lt;div class=&#34;thank-you-message&#34;&gt;&#xA;  &lt;h1&gt;ขอบคุณสำหรับข้อความของคุณ!&lt;/h1&gt;&#xA;  &lt;p&gt;เราได้รับคำขอของคุณแล้ว และจะตอบกลับโดยเร็วที่สุด&lt;/p&gt;&#xA;  &lt;a href=&#34;//localhost:4321/&#34; class=&#34;button&#34;&gt;กลับไปที่หน้าหลัก&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;style&gt;&#xA;.thank-you-message {&#xA;  text-align: center;&#xA;  padding: 50px;&#xA;  background-color: #f8f8f8; /* พื้นหลังสีอ่อน - ปรับแต่งตามต้องการ */&#xA;}&#xA;&#xA;.thank-you-message h1 {&#xA;  color: #29305f; /* สีหัวข้อสีฟ้ากลาง */&#xA;  font-size: 2.5rem; /* ปรับขนาดหัวข้อได้ตามต้องการ */&#xA;}&#xA;&#xA;.thank-you-message p {&#xA;  color: #545454; /* สีข้อความเทาเข้ม */&#xA;  font-size: 1.1rem;&#xA;}&#xA;&#xA;.button {&#xA;  background-color: #29305f; /* สีปุ่มฟ้ากลาง */&#xA;  color: white;&#xA;  padding: 10px 20px;&#xA;  text-decoration: none;&#xA;  border-radius: 5px;&#xA;  display: inline-block;&#xA;  margin-top: 20px;&#xA;}&#xA;&lt;/style&gt;</description>
     </item>
     <item>
       <title>่งเสริมธุรกิจทั่วโลก</title>
-      <link>/th/user-trust/</link>
+      <link>//localhost:4321/th/user-trust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/user-trust/</guid>
+      <guid>//localhost:4321/th/user-trust/</guid>
       <description></description>
     </item>
     <item>
       <title>โซลูชันต่อเนื่องสำหรับอุตสาหกรรมโลหะ</title>
-      <link>/th/how-to/</link>
+      <link>//localhost:4321/th/how-to/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/how-to/</guid>
+      <guid>//localhost:4321/th/how-to/</guid>
       <description></description>
     </item>
     <item>
       <title>ติดต่อเรา</title>
-      <link>/th/contact/</link>
+      <link>//localhost:4321/th/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/th/contact/</guid>
-      <description>&lt;form name=&#34;contacto&#34; method=&#34;POST&#34; netlify action=&#34;/th/thank-you&#34;&gt;&#xA;  &lt;input type=&#34;hidden&#34; name=&#34;form-name&#34; value=&#34;contacto&#34;&gt;&#xA;&lt;p&gt;&lt;label for=&#34;name&#34;&gt;ชื่อ&lt;/label&gt;&#xA;&lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;email&#34;&gt;อีเมล&lt;/label&gt;&#xA;&lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;message&#34;&gt;ข้อความ&lt;/label&gt;&lt;/p&gt;&#xA;  &lt;textarea id=&#34;message&#34; name=&#34;message&#34; required&gt;&lt;/textarea&gt;&#xA;&lt;p&gt;&lt;button type=&#34;submit&#34;&gt;ส่ง&lt;/button&gt;&lt;/p&gt;&#xA;&lt;/form&gt;</description>
+      <guid>//localhost:4321/th/contact/</guid>
+      <description>&lt;form name=&#34;contacto&#34; method=&#34;POST&#34; netlify action=&#34;//localhost:4321/th/thank-you&#34;&gt;&#xA;  &lt;input type=&#34;hidden&#34; name=&#34;form-name&#34; value=&#34;contacto&#34;&gt;&#xA;&lt;p&gt;&lt;label for=&#34;name&#34;&gt;ชื่อ&lt;/label&gt;&#xA;&lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;email&#34;&gt;อีเมล&lt;/label&gt;&#xA;&lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;message&#34;&gt;ข้อความ&lt;/label&gt;&lt;/p&gt;&#xA;  &lt;textarea id=&#34;message&#34; name=&#34;message&#34; required&gt;&lt;/textarea&gt;&#xA;&lt;p&gt;&lt;button type=&#34;submit&#34;&gt;ส่ง&lt;/button&gt;&lt;/p&gt;&#xA;&lt;/form&gt;</description>
     </item>
   </channel>
 </rss>
