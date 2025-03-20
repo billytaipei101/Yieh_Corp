@@ -1,5 +1,5 @@
 ---
-title: "Coated Steel"
+title: "x 3"
 url: "/steps/step-3/"
 products:
   - name: "Product A"

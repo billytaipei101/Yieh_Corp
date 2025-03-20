@@ -1,5 +1,5 @@
 ---
-title: "Wire Rod"
+title: "x 7"
 url: "/en/steps/step-7/"
 products:
   - name: "Product A"

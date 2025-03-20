@@ -1,5 +1,5 @@
 ---
-title: "管材/管道"
+title: "x5"
 url: "/zh/steps/step-5/"
 products:
   - name: "Product A"

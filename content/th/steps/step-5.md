@@ -1,5 +1,5 @@
 ---
-title: "ท่อ/ท่อเหล็ก"
+title: "x5"
 url: "/th/steps/step-5/"
 products:
   - name: "Product A"

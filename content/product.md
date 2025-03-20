@@ -1,17 +1,17 @@
 ---
 title: "MDFriday: Product introduction"
 tagline: "We Know"
-highlight: "Metals"
-description: "Leading provider of high-quality metal products.
+highlight: "xx"
+description: "Leading provider of high-quality products.
 Specializing in a wide range of products to meet diverse industrial and commercial needs. 
 Check out our catalog."
 button_text: "Catalog"
 button_link: "/#how-to"
 freemium_text: "Get a quotation within one day"
-claimer1: "Stainless Steel"
-claimer2: "Carbon Steel"
-claimer3: "Coated Steel"
-claimer4: "Aluminum"
+claimer1: "x 1"
+claimer2: "x 2"
+claimer3: "x 3"
+claimer4: "x 4"
 ---
 
 # Product Field Explanation

@@ -1,5 +1,5 @@
 ---
-title: "線材"
+title: "x7"
 url: "/zh/steps/step-7/"
 products:
   - name: "Product A"

@@ -1,5 +1,5 @@
 ---
-title: "기타"
+title: "x8"
 url: "/ko/steps/step-8/"
 products:
   - name: "Product A"

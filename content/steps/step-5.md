@@ -1,5 +1,5 @@
 ---
-title: "Pipe/Tube"
+title: "x 5"
 url: "/steps/step-5/"
 products:
   - name: "Product A"

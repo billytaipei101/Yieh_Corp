@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on เย่คอร์ปอินเตอร์เนชั่นแนล จำกัด (ไทย)</title>
-    <link>//localhost:4743/th/tags/</link>
-    <description>Recent content in Tags on เย่คอร์ปอินเตอร์เนชั่นแนล จำกัด (ไทย)</description>
+    <title>Tags on Company Xัด (ไทย)</title>
+    <link>//localhost:4321/th/tags/</link>
+    <description>Recent content in Tags on Company Xัด (ไทย)</description>
     <generator>Hugo</generator>
     <language>th</language>
-    <atom:link href="//localhost:4743/th/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/th/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

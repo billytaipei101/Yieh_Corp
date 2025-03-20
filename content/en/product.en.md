@@ -2,7 +2,7 @@
 title: "MDFriday: Product introduction"
 tagline: "We Know"
 highlight: "Metals"
-description: "Leading provider of high-quality metal products.
+description: "Leading provider of high-quality x products.
 Specializing in a wide range of products to meet diverse industrial and commercial needs. 
 Check out our catalog."
 button_text: "Catalog"

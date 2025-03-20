@@ -1,5 +1,5 @@
 ---
-title: "Acero al Carbono"
+title: " x2 "
 url: "/es/steps/step-2/"
 products:
   - name: "Product A"

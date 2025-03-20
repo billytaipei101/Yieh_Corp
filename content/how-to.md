@@ -1,5 +1,5 @@
 ---
-title: "Seamless Metal Industry Solutions"
+title: "Industry Solutions"
 subtitle: "Asia-Wide Production Network"
 
 steps:

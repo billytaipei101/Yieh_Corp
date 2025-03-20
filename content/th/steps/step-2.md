@@ -1,5 +1,5 @@
 ---
-title: "เหล็กกล้าคาร์บอน"
+title: "x2"
 url: "/th/steps/step-2/"
 products:
   - name: "Product A"

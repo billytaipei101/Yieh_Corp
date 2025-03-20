@@ -1,5 +1,5 @@
 ---
-title: "파이프/튜브"
+title: "x5"
 url: "/ko/steps/step-5/"
 products:
   - name: "Product A"

@@ -1,5 +1,5 @@
 ---
-title: "炭素鋼"
+title: "x2"
 url: "/ja/steps/step-2/"
 products:
   - name: "Product A"

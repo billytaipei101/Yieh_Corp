@@ -1,5 +1,5 @@
 ---
-title: "바"
+title: "x6"
 url: "/ko/steps/step-6/"
 products:
   - name: "Product A"

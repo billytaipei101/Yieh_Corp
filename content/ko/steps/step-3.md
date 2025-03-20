@@ -1,5 +1,5 @@
 ---
-title: "코팅강"
+title: "x3"
 url: "/ko/steps/step-3/"
 products:
   - name: "Product A"

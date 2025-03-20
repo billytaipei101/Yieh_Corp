@@ -1,5 +1,5 @@
 ---
-title: "Carbon Steel"
+title: "x 2"
 url: "/steps/step-2/"
 products:
   - name: "Product A"

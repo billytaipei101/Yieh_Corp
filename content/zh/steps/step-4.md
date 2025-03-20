@@ -1,5 +1,5 @@
 ---
-title: "鋁"
+title: "x4"
 url: "/zh/steps/step-4/"
 products:
   - name: "Product A"

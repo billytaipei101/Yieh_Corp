@@ -1,5 +1,5 @@
 ---
-title: "Ống/Tuýp"
+title: "x5"
 url: "/vi/steps/step-5/"
 products:
   - name: "Product A"

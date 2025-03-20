@@ -1,5 +1,5 @@
 ---
-title: "Soluciones Continuas para la Industria del Metal"
+title: "Soluciones Continuas para la Industria del"
 subtitle: "Red de Producción en Toda Asia"
 
 steps:

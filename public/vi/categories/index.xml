@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Công ty Cổ phần Yieh Corp Quốc tế (Tiếng Việt)</title>
-    <link>//localhost:4743/vi/categories/</link>
-    <description>Recent content in Categories on Công ty Cổ phần Yieh Corp Quốc tế (Tiếng Việt)</description>
+    <title>Categories on Company X</title>
+    <link>//localhost:4321/vi/categories/</link>
+    <description>Recent content in Categories on Company X</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <atom:link href="//localhost:4743/vi/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/vi/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

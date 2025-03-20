@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Yieh Corp International (English)</title>
-    <link>//localhost:4743/categories/</link>
-    <description>Recent content in Categories on Yieh Corp International (English)</description>
+    <title>Categories on Company X (English)</title>
+    <link>//localhost:4321/categories/</link>
+    <description>Recent content in Categories on Company X (English)</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:4743/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

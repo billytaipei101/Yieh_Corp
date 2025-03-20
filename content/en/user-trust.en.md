@@ -1,5 +1,5 @@
 ---
-title: "Yieh Corp: Powering businesses worldwide"
+title: "Powering businesses worldwide"
 trusted_count: 5000+
 websites_created: "global customers"
 ---

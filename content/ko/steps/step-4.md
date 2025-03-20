@@ -1,5 +1,5 @@
 ---
-title: "알루미늄"
+title: "x4"
 url: "/ko/steps/step-4/"
 products:
   - name: "Product A"

@@ -1,5 +1,5 @@
 ---
-title: "Alambrón"
+title: "x 7"
 url: "/es/steps/step-7/"
 products:
   - name: "Product A"

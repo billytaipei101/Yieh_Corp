@@ -1,5 +1,5 @@
 ---
-title: "Thép Carbon"
+title: "x2"
 url: "/vi/steps/step-2/"
 products:
   - name: "Product A"

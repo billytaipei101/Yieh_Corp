@@ -1,5 +1,5 @@
 ---
-title: "Yieh Corp: Impulsando negocios en todo el mundo"
+title: "Impulsando negocios en todo el mundo"
 trusted_count: 5000+
 websites_created: "clientes mundiales"
 ---

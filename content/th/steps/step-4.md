@@ -1,5 +1,5 @@
 ---
-title: "อลูมิเนียม"
+title: "x4"
 url: "/th/steps/step-4/"
 products:
   - name: "Product A"

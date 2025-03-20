@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Yieh Corp (English)"
+title: "Welcome to x Corp (English)"
 ---
 
 This is the English homepage content. You can add your English content here, modify sections, etc.

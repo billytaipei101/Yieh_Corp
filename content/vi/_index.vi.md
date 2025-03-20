@@ -1,8 +1,8 @@
 ---
-title: "Chào mừng đến với Yieh Corp (Tiếng Tây Ban Nha)"
+title: "Chào mừng đến với"
 ---
 
-Đây là nội dung trang chủ bằng tiếng Tây Ban Nha. Thêm nội dung của bạn ở đây, sửa đổi các phần, v.v.
+Đây là nội dung trang
 
 {{ partial "contact-form.html" . }}
 

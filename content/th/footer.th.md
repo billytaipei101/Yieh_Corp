@@ -7,8 +7,8 @@ links:
   - "ติดต่อเรา, Line, https://line.me/ti/p/Fh_n-t5VgK, true"
   - "ติดต่อเรา, Telegram, https://t.me/billytaipei, true"
   - "ติดต่อเรา, LinkedIn, https://www.linkedin.com/in/william-cruz-molina-39150347/, true"
-  - "โซเชียลมีเดีย, Facebook, https://www.facebook.com/YiehCorp?sk=wall, true"
-  - "โซเชียลมีเดีย, Instagram, https://www.instagram.com/yieh_corporation/, true"
-  - "โซเชียลมีเดีย, X, https://x.com/YiehCorp, true"
+  - "โซเชียลมีเดีย, Facebook, https://www.facebook.com/wamolina/, true"
+  - "โซเชียลมีเดีย, Instagram, https://www.instagram.com/willi_cruz101/, true"
+  - "โซเชียลมีเดีย, X, https://x.com/billyTaiwan101, true"
 
 ---

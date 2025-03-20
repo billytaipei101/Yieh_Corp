@@ -1,5 +1,5 @@
 ---
-title: "棒材"
+title: "x6"
 url: "/zh/steps/step-6/"
 products:
   - name: "Product A"

@@ -1,5 +1,5 @@
 ---
-title: "탄소강"
+title: "x2"
 url: "/ko/steps/step-2/"
 products:
   - name: "Product A"

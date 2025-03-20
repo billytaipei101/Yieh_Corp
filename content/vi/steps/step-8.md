@@ -1,5 +1,5 @@
 ---
-title: "Khác"
+title: "x8"
 url: "/vi/steps/step-8/"
 products:
   - name: "Product A"

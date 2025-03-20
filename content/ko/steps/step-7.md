@@ -1,5 +1,5 @@
 ---
-title: "와이어 로드"
+title: "x7"
 url: "/ko/steps/step-7/"
 products:
   - name: "Product A"

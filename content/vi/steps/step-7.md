@@ -1,5 +1,5 @@
 ---
-title: "Dây Thép"
+title: "x7"
 url: "/th/steps/step-7/"
 products:
   - name: "Product A"

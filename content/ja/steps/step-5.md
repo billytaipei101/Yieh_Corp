@@ -1,5 +1,5 @@
 ---
-title: "管材/配管"
+title: "x5"
 url: "/ja/steps/step-5/"
 products:
   - name: "Product A"

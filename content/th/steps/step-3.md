@@ -1,5 +1,5 @@
 ---
-title: "เหล็กเคลือบ"
+title: "x3"
 url: "/th/steps/step-3/"
 products:
   - name: "Product A"

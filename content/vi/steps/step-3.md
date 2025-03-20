@@ -1,5 +1,5 @@
 ---
-title: "Thép Mạ"
+title: "x3"
 url: "/vi/steps/step-3/"
 products:
   - name: "Product A"

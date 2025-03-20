@@ -1,5 +1,5 @@
 ---
-title: "其他"
+title: "x8"
 url: "/zh/steps/step-8/"
 products:
   - name: "Product A"

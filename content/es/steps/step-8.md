@@ -1,5 +1,5 @@
 ---
-title: "Otros"
+title: "x 8"
 url: "/es/steps/step-8/"
 products:
   - name: "Product A"

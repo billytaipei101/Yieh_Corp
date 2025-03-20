@@ -1,5 +1,5 @@
 ---
-title: "ワイヤー"
+title: "x7"
 url: "/ja/steps/step-7/"
 products:
   - name: "Product A"

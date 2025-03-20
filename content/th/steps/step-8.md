@@ -1,5 +1,5 @@
 ---
-title: "อื่นๆ"
+title: "x8"
 url: "/th/steps/step-8/"
 products:
   - name: "Product A"

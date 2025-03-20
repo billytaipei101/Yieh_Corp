@@ -1,5 +1,5 @@
 ---
-title: "Stainless Steel"
+title: "x 1"
 url: "/steps/step-1/"
 products:
   - name: "Product A"

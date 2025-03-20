@@ -1,5 +1,5 @@
 ---
-title: "Bienvenido a Yieh Corp (Español)"
+title: "Bienvenido a x Corp (Español)"
 ---
 
 Este es el contenido de la página de inicio en español. Agrega aquí tu contenido en español, modifica secciones, etc.

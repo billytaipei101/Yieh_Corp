@@ -1,5 +1,5 @@
 ---
-title: "Thanh"
+title: "x6"
 url: "/th/steps/step-6/"
 products:
   - name: "Product A"

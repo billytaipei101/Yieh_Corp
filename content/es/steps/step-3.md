@@ -1,5 +1,5 @@
 ---
-title: "Acero Recubierto"
+title: "x 3"
 url: "/es/steps/step-3/"
 products:
   - name: "Product A"

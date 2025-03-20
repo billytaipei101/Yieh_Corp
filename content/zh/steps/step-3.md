@@ -1,5 +1,5 @@
 ---
-title: "鍍層鋼"
+title: "x3"
 url: "/zh/steps/step-3/"
 products:
   - name: "Product A"

@@ -7,7 +7,7 @@ links:
   - "聯絡我們, Line, https://line.me/ti/p/Fh_n-t5VgK, true" 
   - "聯絡我們, Telegram, https://t.me/billytaipei, true"
   - "聯絡我們, LinkedIn, https://www.linkedin.com/in/william-cruz-molina-39150347/, true"
-  - "社交媒體, Facebook, https://www.facebook.com/YiehCorp?sk=wall, true"
-  - "社交媒體, Instagram, https://www.instagram.com/yieh_corporation/, true"
-  - "社交媒體, X, https://x.com/YiehCorp, true"
+  - "社交媒體, Facebook, https://www.facebook.com/wamolina/, true"
+  - "社交媒體, Instagram, https://www.instagram.com/willi_cruz101/, true"
+  - "社交媒體, X, https://x.com/billyTaiwan101, true"
 ---

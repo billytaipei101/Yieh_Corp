@@ -1,115 +1,115 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>歡迎來到燁貿國際股份有限公司 (中文) on 燁貿國際股份有限公司 (中文)</title>
-    <link>//localhost:4743/zh/</link>
-    <description>Recent content in 歡迎來到燁貿國際股份有限公司 (中文) on 燁貿國際股份有限公司 (中文)</description>
+    <title>歡迎來到公司 (中文) on 公司X (中文)</title>
+    <link>//localhost:4321/zh/</link>
+    <description>Recent content in 歡迎來到公司 (中文) on 公司X (中文)</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <atom:link href="//localhost:4743/zh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>不銹鋼</title>
-      <link>//localhost:4743/zh/steps/step-1/</link>
+      <title>x1</title>
+      <link>//localhost:4321/zh/steps/step-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/steps/step-1/</guid>
-      <description>&lt;p&gt;    &#xA;    &#xA;    &lt;/p&gt;&#xA;&lt;div class=&#34;image-grid&#34;&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4743/img/step_1_a.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;不鏽鋼熱/冷軋捲材&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4743/img/step_1_b.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;不鏽鋼帶材&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4743/img/step_1_c.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;不鏽鋼板&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4743/img/step_1_d.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;不鏽鋼花紋板&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4743/img/step_1_e.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;不鏽鋼薄板&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &#xA;      &#xA;    &#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4743/img/step_1_f.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xA;      &#xA;        &lt;p class=&#34;image-caption&#34;&gt;預塗不鏽鋼捲材/板材&lt;/p&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.image-grid {&#xA;  display: grid;&#xA;  grid-template-columns: repeat(3, 1fr);  &#xA;  grid-gap: 10px;  &#xA;}&#xA;&#xA;.grid-image {&#xA;  width: 100%;&#xA;  height: auto;&#xA;}&#xA;&#xA;.grid-item {&#xA;  text-align: center;  &#xA;}&#xA;&#xA;.image-caption {&#xA;  font-size: 0.8rem;  &#xA;  color: #666;  &#xA;  margin-top: 5px;  &#xA;}&#xA;&lt;/style&gt;&#xA;&lt;p&gt;    &lt;/p&gt;&#xA;&lt;h3 id=&#34;索引&#34;&gt;索引&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/zh/steps/step-1/#%e4%b8%8d%e9%8a%b9%e9%8b%bc%e7%86%b1%e8%bb%8b1%e8%99%9f%e6%8d%b2%e6%9d%90&#34;&gt;不銹鋼熱軋 1 號捲材&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/zh/steps/step-1/#%e4%b8%8d%e9%8a%b9%e9%8b%bc%e5%86%b7%e8%bb%8b%e6%8d%b2%e6%9d%90&#34;&gt;不銹鋼冷軋捲材&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/zh/steps/step-1/#%e4%b8%8d%e9%8a%b9%e9%8b%bc%e5%b8%b6&#34;&gt;不銹鋼帶&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/zh/steps/step-1/#%e4%b8%8d%e9%8a%b9%e9%8b%bc%e6%9d%bf&#34;&gt;不銹鋼板&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/zh/steps/step-1/#%e4%b8%8d%e9%8a%b9%e9%8b%bc%e8%8a%b1%e7%b4%8b%e6%9d%bf&#34;&gt;不銹鋼花紋板&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/zh/steps/step-1/#%e4%b8%8d%e9%8a%b9%e9%8b%bc%e7%89%87&#34;&gt;不銹鋼片&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:4743/zh/steps/step-1/#%e9%a0%90%e5%a1%97%e6%bc%86%e4%b8%8d%e9%8a%b9%e9%8b%bc%e6%8d%b2%e6%9d%90%e8%96%84%e6%9d%bf&#34;&gt;預塗漆不銹鋼捲材-薄板&lt;/a&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;    &lt;/p&gt;&#xA;&lt;h2 id=&#34;不銹鋼熱軋1號捲材&#34;&gt;不銹鋼熱軋1號捲材&lt;/h2&gt;&#xA;&lt;p&gt;    &lt;/p&gt;&#xA;&lt;p&gt;Yieh Corp. supplies durable, corrosion-resistant stainless steel hot rolled No. 1 coils at the best prices. Ideal for residential and marine use, our coils offer excellent strength and a perfect surface finish, with customizable processing options.&lt;/p&gt;</description>
+      <guid>//localhost:4321/zh/steps/step-1/</guid>
+      <description></description>
     </item>
     <item>
-      <title>碳鋼</title>
-      <link>//localhost:4743/zh/steps/step-2/</link>
+      <title>x2</title>
+      <link>//localhost:4321/zh/steps/step-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/steps/step-2/</guid>
+      <guid>//localhost:4321/zh/steps/step-2/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-2&#34;&gt;Available Products for Step 2&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Configuración de la barra de navegación</title>
-      <link>//localhost:4743/zh/nav/</link>
+      <link>//localhost:4321/zh/nav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/nav/</guid>
+      <guid>//localhost:4321/zh/nav/</guid>
       <description></description>
     </item>
     <item>
-      <title>鍍層鋼</title>
-      <link>//localhost:4743/zh/steps/step-3/</link>
+      <title>x3</title>
+      <link>//localhost:4321/zh/steps/step-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/steps/step-3/</guid>
+      <guid>//localhost:4321/zh/steps/step-3/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-3&#34;&gt;Available Products for Step 3&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>鋁</title>
-      <link>//localhost:4743/zh/steps/step-4/</link>
+      <title>x4</title>
+      <link>//localhost:4321/zh/steps/step-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/steps/step-4/</guid>
+      <guid>//localhost:4321/zh/steps/step-4/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-4&#34;&gt;Available Products for Step 4&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>管材/管道</title>
-      <link>//localhost:4743/zh/steps/step-5/</link>
+      <title>x5</title>
+      <link>//localhost:4321/zh/steps/step-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/steps/step-5/</guid>
+      <guid>//localhost:4321/zh/steps/step-5/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-5&#34;&gt;Available Products for Step 5&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>棒材</title>
-      <link>//localhost:4743/zh/steps/step-6/</link>
+      <title>x6</title>
+      <link>//localhost:4321/zh/steps/step-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/steps/step-6/</guid>
+      <guid>//localhost:4321/zh/steps/step-6/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-6&#34;&gt;Available Products for Step 6&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>線材</title>
-      <link>//localhost:4743/zh/steps/step-7/</link>
+      <title>x7</title>
+      <link>//localhost:4321/zh/steps/step-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/steps/step-7/</guid>
+      <guid>//localhost:4321/zh/steps/step-7/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-7&#34;&gt;Available Products for Step 7&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>其他</title>
-      <link>//localhost:4743/zh/steps/step-8/</link>
+      <title>x8</title>
+      <link>//localhost:4321/zh/steps/step-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/steps/step-8/</guid>
+      <guid>//localhost:4321/zh/steps/step-8/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-8&#34;&gt;Available Products for Step 8&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:4743/zh/footer/</link>
+      <link>//localhost:4321/zh/footer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/footer/</guid>
+      <guid>//localhost:4321/zh/footer/</guid>
       <description></description>
     </item>
     <item>
       <title>MDFriday: 產品介紹</title>
-      <link>//localhost:4743/zh/product/</link>
+      <link>//localhost:4321/zh/product/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/product/</guid>
+      <guid>//localhost:4321/zh/product/</guid>
       <description></description>
     </item>
     <item>
       <title>感謝</title>
-      <link>//localhost:4743/zh/thank-you/</link>
+      <link>//localhost:4321/zh/thank-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/thank-you/</guid>
-      <description>&lt;div class=&#34;thank-you-message&#34;&gt;&#xA;  &lt;h1&gt;感謝您的留言！&lt;/h1&gt;&#xA;  &lt;p&gt;我們已收到您的請求，將盡快回覆您。&lt;/p&gt;&#xA;  &lt;a href=&#34;//localhost:4743/&#34; class=&#34;button&#34;&gt;返回首頁&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;style&gt;&#xA;.thank-you-message {&#xA;  text-align: center;&#xA;  padding: 50px;&#xA;  background-color: #f8f8f8; /* 淺色背景 - 可根據需要調整 */&#xA;}&#xA;&#xA;.thank-you-message h1 {&#xA;  color: #29305f; /* 深藍色標題 */&#xA;  font-size: 2.5rem; /* 根據需要調整標題大小 */&#xA;}&#xA;&#xA;.thank-you-message p {&#xA;  color: #545454; /* 深灰色文字 */&#xA;  font-size: 1.1rem;&#xA;}&#xA;&#xA;.button {&#xA;  background-color: #29305f; /* 深藍色按鈕 */&#xA;  color: white;&#xA;  padding: 10px 20px;&#xA;  text-decoration: none;&#xA;  border-radius: 5px;&#xA;  display: inline-block;&#xA;  margin-top: 20px;&#xA;}&#xA;&lt;/style&gt;</description>
-    </item>
-    <item>
-      <title>金屬行業的無縫解決方案</title>
-      <link>//localhost:4743/zh/how-to/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/how-to/</guid>
-      <description></description>
+      <guid>//localhost:4321/zh/thank-you/</guid>
+      <description>&lt;div class=&#34;thank-you-message&#34;&gt;&#xA;  &lt;h1&gt;感謝您的留言！&lt;/h1&gt;&#xA;  &lt;p&gt;我們已收到您的請求，將盡快回覆您。&lt;/p&gt;&#xA;  &lt;a href=&#34;//localhost:4321/&#34; class=&#34;button&#34;&gt;返回首頁&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;style&gt;&#xA;.thank-you-message {&#xA;  text-align: center;&#xA;  padding: 50px;&#xA;  background-color: #f8f8f8; /* 淺色背景 - 可根據需要調整 */&#xA;}&#xA;&#xA;.thank-you-message h1 {&#xA;  color: #29305f; /* 深藍色標題 */&#xA;  font-size: 2.5rem; /* 根據需要調整標題大小 */&#xA;}&#xA;&#xA;.thank-you-message p {&#xA;  color: #545454; /* 深灰色文字 */&#xA;  font-size: 1.1rem;&#xA;}&#xA;&#xA;.button {&#xA;  background-color: #29305f; /* 深藍色按鈕 */&#xA;  color: white;&#xA;  padding: 10px 20px;&#xA;  text-decoration: none;&#xA;  border-radius: 5px;&#xA;  display: inline-block;&#xA;  margin-top: 20px;&#xA;}&#xA;&lt;/style&gt;</description>
     </item>
     <item>
       <title>聯絡我們</title>
-      <link>//localhost:4743/zh/contact/</link>
+      <link>//localhost:4321/zh/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/contact/</guid>
-      <description>&lt;form name=&#34;contacto&#34; method=&#34;POST&#34; netlify action=&#34;//localhost:4743/zh/thank-you&#34;&gt;&#xA;  &lt;input type=&#34;hidden&#34; name=&#34;form-name&#34; value=&#34;contacto&#34;&gt;&#xA;&lt;p&gt;&lt;label for=&#34;name&#34;&gt;姓名&lt;/label&gt;&#xA;&lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;email&#34;&gt;電子郵件&lt;/label&gt;&#xA;&lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;message&#34;&gt;訊息&lt;/label&gt;&lt;/p&gt;&#xA;  &lt;textarea id=&#34;message&#34; name=&#34;message&#34; required&gt;&lt;/textarea&gt;&#xA;&lt;p&gt;&lt;button type=&#34;submit&#34;&gt;送出&lt;/button&gt;&lt;/p&gt;&#xA;&lt;/form&gt;</description>
+      <guid>//localhost:4321/zh/contact/</guid>
+      <description>&lt;form name=&#34;contacto&#34; method=&#34;POST&#34; netlify action=&#34;//localhost:4321/zh/thank-you&#34;&gt;&#xA;  &lt;input type=&#34;hidden&#34; name=&#34;form-name&#34; value=&#34;contacto&#34;&gt;&#xA;&lt;p&gt;&lt;label for=&#34;name&#34;&gt;姓名&lt;/label&gt;&#xA;&lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;email&#34;&gt;電子郵件&lt;/label&gt;&#xA;&lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;message&#34;&gt;訊息&lt;/label&gt;&lt;/p&gt;&#xA;  &lt;textarea id=&#34;message&#34; name=&#34;message&#34; required&gt;&lt;/textarea&gt;&#xA;&lt;p&gt;&lt;button type=&#34;submit&#34;&gt;送出&lt;/button&gt;&lt;/p&gt;&#xA;&lt;/form&gt;</description>
     </item>
     <item>
-      <title>燁貿國際股份有限公司：推動全球業務發展</title>
-      <link>//localhost:4743/zh/user-trust/</link>
+      <title>行業的無縫解決方案</title>
+      <link>//localhost:4321/zh/how-to/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4743/zh/user-trust/</guid>
+      <guid>//localhost:4321/zh/how-to/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>有限公司：推動全球業務發展</title>
+      <link>//localhost:4321/zh/user-trust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/zh/user-trust/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,5 +1,5 @@
 ---
-title: "Barra"
+title: "x 6"
 url: "/es/steps/step-6/"
 products:
   - name: "Product A"

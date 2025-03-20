@@ -1,5 +1,5 @@
 ---
-title: "コーティング鋼"
+title: "x3"
 url: "/ja/steps/step-3/"
 products:
   - name: "Product A"
