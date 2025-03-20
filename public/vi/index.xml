@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chào mừng đến với on Company X</title>
-    <link>//localhost:4321/vi/</link>
+    <link>/vi/</link>
     <description>Recent content in Chào mừng đến với on Company X</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <atom:link href="//localhost:4321/vi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/vi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>x1</title>
-      <link>//localhost:4321/vi/steps/step-1/</link>
+      <link>/vi/steps/step-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-1/</guid>
+      <guid>/vi/steps/step-1/</guid>
       <description></description>
     </item>
     <item>
       <title>x2</title>
-      <link>//localhost:4321/vi/steps/step-2/</link>
+      <link>/vi/steps/step-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-2/</guid>
+      <guid>/vi/steps/step-2/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-2&#34;&gt;Available Products for Step 2&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x3</title>
-      <link>//localhost:4321/vi/steps/step-3/</link>
+      <link>/vi/steps/step-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-3/</guid>
+      <guid>/vi/steps/step-3/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-3&#34;&gt;Available Products for Step 3&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x4</title>
-      <link>//localhost:4321/vi/steps/step-4/</link>
+      <link>/vi/steps/step-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-4/</guid>
+      <guid>/vi/steps/step-4/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-4&#34;&gt;Available Products for Step 4&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x5</title>
-      <link>//localhost:4321/vi/steps/step-5/</link>
+      <link>/vi/steps/step-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-5/</guid>
+      <guid>/vi/steps/step-5/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-5&#34;&gt;Available Products for Step 5&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Configuración de la barra de navegación</title>
-      <link>//localhost:4321/vi/nav/</link>
+      <link>/vi/nav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/nav/</guid>
+      <guid>/vi/nav/</guid>
       <description></description>
     </item>
     <item>
       <title>x8</title>
-      <link>//localhost:4321/vi/steps/step-8/</link>
+      <link>/vi/steps/step-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/steps/step-8/</guid>
+      <guid>/vi/steps/step-8/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-8&#34;&gt;Available Products for Step 8&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:4321/vi/footer/</link>
+      <link>/vi/footer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/footer/</guid>
+      <guid>/vi/footer/</guid>
       <description></description>
     </item>
     <item>
       <title>Cảm ơn</title>
-      <link>//localhost:4321/vi/thank-you/</link>
+      <link>/vi/thank-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/thank-you/</guid>
-      <description>&lt;div class=&#34;thank-you-message&#34;&gt;&#xA;  &lt;h1&gt;Cảm ơn bạn vì tin nhắn!&lt;/h1&gt;&#xA;  &lt;p&gt;Chúng tôi đã nhận được yêu cầu của bạn và sẽ trả lời bạn sớm nhất có thể.&lt;/p&gt;&#xA;  &lt;a href=&#34;//localhost:4321/&#34; class=&#34;button&#34;&gt;Trở lại trang chủ.&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;style&gt;&#xA;.thank-you-message {&#xA;  text-align: center;&#xA;  padding: 50px;&#xA;  background-color: #f8f8f8; /* Màu nền sáng - điều chỉnh nếu cần */&#xA;}&#xA;&#xA;.thank-you-message h1 {&#xA;  color: #29305f; /* Màu tiêu đề xanh đậm */&#xA;  font-size: 2.5rem; /* Điều chỉnh kích thước tiêu đề nếu cần */&#xA;}&#xA;&#xA;.thank-you-message p {&#xA;  color: #545454; /* Màu chữ xám đậm */&#xA;  font-size: 1.1rem;&#xA;}&#xA;&#xA;.button {&#xA;  background-color: #29305f; /* Màu nút xanh đậm */&#xA;  color: white;&#xA;  padding: 10px 20px;&#xA;  text-decoration: none;&#xA;  border-radius: 5px;&#xA;  display: inline-block;&#xA;  margin-top: 20px;&#xA;}&#xA;&lt;/style&gt;</description>
+      <guid>/vi/thank-you/</guid>
+      <description>&lt;div class=&#34;thank-you-message&#34;&gt;&#xA;  &lt;h1&gt;Cảm ơn bạn vì tin nhắn!&lt;/h1&gt;&#xA;  &lt;p&gt;Chúng tôi đã nhận được yêu cầu của bạn và sẽ trả lời bạn sớm nhất có thể.&lt;/p&gt;&#xA;  &lt;a href=&#34;/&#34; class=&#34;button&#34;&gt;Trở lại trang chủ.&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;style&gt;&#xA;.thank-you-message {&#xA;  text-align: center;&#xA;  padding: 50px;&#xA;  background-color: #f8f8f8; /* Màu nền sáng - điều chỉnh nếu cần */&#xA;}&#xA;&#xA;.thank-you-message h1 {&#xA;  color: #29305f; /* Màu tiêu đề xanh đậm */&#xA;  font-size: 2.5rem; /* Điều chỉnh kích thước tiêu đề nếu cần */&#xA;}&#xA;&#xA;.thank-you-message p {&#xA;  color: #545454; /* Màu chữ xám đậm */&#xA;  font-size: 1.1rem;&#xA;}&#xA;&#xA;.button {&#xA;  background-color: #29305f; /* Màu nút xanh đậm */&#xA;  color: white;&#xA;  padding: 10px 20px;&#xA;  text-decoration: none;&#xA;  border-radius: 5px;&#xA;  display: inline-block;&#xA;  margin-top: 20px;&#xA;}&#xA;&lt;/style&gt;</description>
     </item>
     <item>
       <title>Giải Pháp Liên Tục cho Ngành Công Nghiệp Kim Loại</title>
-      <link>//localhost:4321/vi/how-to/</link>
+      <link>/vi/how-to/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/how-to/</guid>
+      <guid>/vi/how-to/</guid>
       <description></description>
     </item>
     <item>
       <title>Liên hệ</title>
-      <link>//localhost:4321/vi/contact/</link>
+      <link>/vi/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/contact/</guid>
-      <description>&lt;form name=&#34;contacto&#34; method=&#34;POST&#34; netlify action=&#34;//localhost:4321/vi/thank-you&#34;&gt;&#xA;  &lt;input type=&#34;hidden&#34; name=&#34;form-name&#34; value=&#34;contacto&#34;&gt;&#xA;&lt;p&gt;&lt;label for=&#34;name&#34;&gt;Họ và Tên&lt;/label&gt;&#xA;&lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;email&#34;&gt;Email&lt;/label&gt;&#xA;&lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;message&#34;&gt;Tin nhắn&lt;/label&gt;&lt;/p&gt;&#xA;  &lt;textarea id=&#34;message&#34; name=&#34;message&#34; required&gt;&lt;/textarea&gt;&#xA;&lt;p&gt;&lt;button type=&#34;submit&#34;&gt;Gửi&lt;/button&gt;&lt;/p&gt;&#xA;&lt;/form&gt;</description>
+      <guid>/vi/contact/</guid>
+      <description>&lt;form name=&#34;contacto&#34; method=&#34;POST&#34; netlify action=&#34;/vi/thank-you&#34;&gt;&#xA;  &lt;input type=&#34;hidden&#34; name=&#34;form-name&#34; value=&#34;contacto&#34;&gt;&#xA;&lt;p&gt;&lt;label for=&#34;name&#34;&gt;Họ và Tên&lt;/label&gt;&#xA;&lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;email&#34;&gt;Email&lt;/label&gt;&#xA;&lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;message&#34;&gt;Tin nhắn&lt;/label&gt;&lt;/p&gt;&#xA;  &lt;textarea id=&#34;message&#34; name=&#34;message&#34; required&gt;&lt;/textarea&gt;&#xA;&lt;p&gt;&lt;button type=&#34;submit&#34;&gt;Gửi&lt;/button&gt;&lt;/p&gt;&#xA;&lt;/form&gt;</description>
     </item>
     <item>
       <title>MDFriday: Giới thiệu Sản phẩm</title>
-      <link>//localhost:4321/vi/product/</link>
+      <link>/vi/product/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/product/</guid>
+      <guid>/vi/product/</guid>
       <description></description>
     </item>
     <item>
       <title>toàn thế giới</title>
-      <link>//localhost:4321/vi/user-trust/</link>
+      <link>/vi/user-trust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/vi/user-trust/</guid>
+      <guid>/vi/user-trust/</guid>
       <description></description>
     </item>
   </channel>

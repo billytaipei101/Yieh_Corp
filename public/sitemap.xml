@@ -2,37 +2,37 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>//localhost:4321/en/sitemap.xml</loc>
+    <loc>/en/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>//localhost:4321/es/sitemap.xml</loc>
+    <loc>/es/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>//localhost:4321/zh/sitemap.xml</loc>
+    <loc>/zh/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>//localhost:4321/ja/sitemap.xml</loc>
+    <loc>/ja/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>//localhost:4321/ko/sitemap.xml</loc>
+    <loc>/ko/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>//localhost:4321/th/sitemap.xml</loc>
+    <loc>/th/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>//localhost:4321/vi/sitemap.xml</loc>
+    <loc>/vi/sitemap.xml</loc>
     
   </sitemap>
   

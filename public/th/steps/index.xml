@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steps on Company Xัด (ไทย)</title>
-    <link>//localhost:4321/th/steps/</link>
+    <link>/th/steps/</link>
     <description>Recent content in Steps on Company Xัด (ไทย)</description>
     <generator>Hugo</generator>
     <language>th</language>
-    <atom:link href="//localhost:4321/th/steps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/th/steps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>x1</title>
-      <link>//localhost:4321/th/steps/step-1/</link>
+      <link>/th/steps/step-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/th/steps/step-1/</guid>
+      <guid>/th/steps/step-1/</guid>
       <description></description>
     </item>
     <item>
       <title>x2</title>
-      <link>//localhost:4321/th/steps/step-2/</link>
+      <link>/th/steps/step-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/th/steps/step-2/</guid>
+      <guid>/th/steps/step-2/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-2&#34;&gt;Available Products for Step 2&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x3</title>
-      <link>//localhost:4321/th/steps/step-3/</link>
+      <link>/th/steps/step-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/th/steps/step-3/</guid>
+      <guid>/th/steps/step-3/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-3&#34;&gt;Available Products for Step 3&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x4</title>
-      <link>//localhost:4321/th/steps/step-4/</link>
+      <link>/th/steps/step-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/th/steps/step-4/</guid>
+      <guid>/th/steps/step-4/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-4&#34;&gt;Available Products for Step 4&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x5</title>
-      <link>//localhost:4321/th/steps/step-5/</link>
+      <link>/th/steps/step-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/th/steps/step-5/</guid>
+      <guid>/th/steps/step-5/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-5&#34;&gt;Available Products for Step 5&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x6</title>
-      <link>//localhost:4321/th/steps/step-6/</link>
+      <link>/th/steps/step-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/th/steps/step-6/</guid>
+      <guid>/th/steps/step-6/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-6&#34;&gt;Available Products for Step 6&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x7</title>
-      <link>//localhost:4321/th/steps/step-7/</link>
+      <link>/th/steps/step-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/th/steps/step-7/</guid>
+      <guid>/th/steps/step-7/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-7&#34;&gt;Available Products for Step 7&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>x8</title>
-      <link>//localhost:4321/th/steps/step-8/</link>
+      <link>/th/steps/step-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/th/steps/step-8/</guid>
+      <guid>/th/steps/step-8/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-8&#34;&gt;Available Products for Step 8&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
