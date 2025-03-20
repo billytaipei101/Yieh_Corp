@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Categories on 公司X (中文)</title>
-    <link>//localhost:4321/zh/categories/</link>
+    <link>/zh/categories/</link>
     <description>Recent content in Categories on 公司X (中文)</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <atom:link href="//localhost:4321/zh/categories/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <title>Categories on 燁貿國際股份有限公司 (中文)</title>
-    <link>/zh/categories/</link>
-    <description>Recent content in Categories on 燁貿國際股份有限公司 (中文)</description>
-    <generator>Hugo</generator>
-    <language>zh</language>
     <atom:link href="/zh/categories/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
   </channel>
 </rss>

@@ -2,65 +2,37 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-<<<<<<< HEAD
-    <loc>//localhost:4321/en/sitemap.xml</loc>
-=======
     <loc>/en/sitemap.xml</loc>
->>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
     
   </sitemap>
   
   <sitemap>
-<<<<<<< HEAD
-    <loc>//localhost:4321/es/sitemap.xml</loc>
-=======
     <loc>/es/sitemap.xml</loc>
->>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
     
   </sitemap>
   
   <sitemap>
-<<<<<<< HEAD
-    <loc>//localhost:4321/zh/sitemap.xml</loc>
-=======
     <loc>/zh/sitemap.xml</loc>
->>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
     
   </sitemap>
   
   <sitemap>
-<<<<<<< HEAD
-    <loc>//localhost:4321/ja/sitemap.xml</loc>
-=======
     <loc>/ja/sitemap.xml</loc>
->>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
     
   </sitemap>
   
   <sitemap>
-<<<<<<< HEAD
-    <loc>//localhost:4321/ko/sitemap.xml</loc>
-=======
     <loc>/ko/sitemap.xml</loc>
->>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
     
   </sitemap>
   
   <sitemap>
-<<<<<<< HEAD
-    <loc>//localhost:4321/th/sitemap.xml</loc>
-=======
     <loc>/th/sitemap.xml</loc>
->>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
     
   </sitemap>
   
   <sitemap>
-<<<<<<< HEAD
-    <loc>//localhost:4321/vi/sitemap.xml</loc>
-=======
     <loc>/vi/sitemap.xml</loc>
->>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
     
   </sitemap>
   

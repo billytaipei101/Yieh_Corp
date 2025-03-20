@@ -1,129 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Steps on 公司X (中文)</title>
-    <link>//localhost:4321/zh/steps/</link>
-    <description>Recent content in Steps on 公司X (中文)</description>
-    <generator>Hugo</generator>
-    <language>zh</language>
-    <atom:link href="//localhost:4321/zh/steps/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>x1</title>
-      <link>//localhost:4321/zh/steps/step-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/zh/steps/step-1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>x2</title>
-      <link>//localhost:4321/zh/steps/step-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/zh/steps/step-2/</guid>
-      <description>&lt;h1 id=&#34;available-products-for-step-2&#34;&gt;Available Products for Step 2&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>x3</title>
-      <link>//localhost:4321/zh/steps/step-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/zh/steps/step-3/</guid>
-      <description>&lt;h1 id=&#34;available-products-for-step-3&#34;&gt;Available Products for Step 3&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>x4</title>
-      <link>//localhost:4321/zh/steps/step-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/zh/steps/step-4/</guid>
-      <description>&lt;h1 id=&#34;available-products-for-step-4&#34;&gt;Available Products for Step 4&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>x5</title>
-      <link>//localhost:4321/zh/steps/step-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/zh/steps/step-5/</guid>
-      <description>&lt;h1 id=&#34;available-products-for-step-5&#34;&gt;Available Products for Step 5&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>x6</title>
-      <link>//localhost:4321/zh/steps/step-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/zh/steps/step-6/</guid>
-      <description>&lt;h1 id=&#34;available-products-for-step-6&#34;&gt;Available Products for Step 6&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>x7</title>
-      <link>//localhost:4321/zh/steps/step-7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/zh/steps/step-7/</guid>
-      <description>&lt;h1 id=&#34;available-products-for-step-7&#34;&gt;Available Products for Step 7&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>x8</title>
-      <link>//localhost:4321/zh/steps/step-8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/zh/steps/step-8/</guid>
-=======
-    <title>Steps on 燁貿國際股份有限公司 (中文)</title>
     <link>/zh/steps/</link>
-    <description>Recent content in Steps on 燁貿國際股份有限公司 (中文)</description>
+    <description>Recent content in Steps on 公司X (中文)</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <atom:link href="/zh/steps/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>不銹鋼</title>
+      <title>x1</title>
       <link>/zh/steps/step-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/zh/steps/step-1/</guid>
-      <description>&lt;p&gt;    &#xA;    &#xA;    &lt;/p&gt;&#xA;&lt;div class=&#34;image-grid&#34;&gt;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;/img/step_1_a.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xD;&#xA;      &#xD;&#xA;        &lt;p class=&#34;image-caption&#34;&gt;不鏽鋼熱/冷軋捲材&lt;/p&gt;&#xD;&#xA;      &#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;/img/step_1_b.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xD;&#xA;      &#xD;&#xA;        &lt;p class=&#34;image-caption&#34;&gt;不鏽鋼帶材&lt;/p&gt;&#xD;&#xA;      &#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;/img/step_1_c.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xD;&#xA;      &#xD;&#xA;        &lt;p class=&#34;image-caption&#34;&gt;不鏽鋼板&lt;/p&gt;&#xD;&#xA;      &#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;/img/step_1_d.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xD;&#xA;      &#xD;&#xA;        &lt;p class=&#34;image-caption&#34;&gt;不鏽鋼花紋板&lt;/p&gt;&#xD;&#xA;      &#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;/img/step_1_e.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xD;&#xA;      &#xD;&#xA;        &lt;p class=&#34;image-caption&#34;&gt;不鏽鋼薄板&lt;/p&gt;&#xD;&#xA;      &#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;    &lt;div class=&#34;grid-item&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;/img/step_1_f.jpg&#34; alt=&#34;Image&#34; class=&#34;grid-image&#34;&gt;&#xD;&#xA;      &#xD;&#xA;        &lt;p class=&#34;image-caption&#34;&gt;預塗不鏽鋼捲材/板材&lt;/p&gt;&#xD;&#xA;      &#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;.image-grid {&#xD;&#xA;  display: grid;&#xD;&#xA;  grid-template-columns: repeat(3, 1fr);  &#xD;&#xA;  grid-gap: 10px;  &#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.grid-image {&#xD;&#xA;  width: 100%;&#xD;&#xA;  height: auto;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.grid-item {&#xD;&#xA;  text-align: center;  &#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.image-caption {&#xD;&#xA;  font-size: 0.8rem;  &#xD;&#xA;  color: #666;  &#xD;&#xA;  margin-top: 5px;  &#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xA;&lt;p&gt;    &lt;/p&gt;&#xA;&lt;h3 id=&#34;索引&#34;&gt;索引&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/zh/steps/step-1/#%e4%b8%8d%e9%8a%b9%e9%8b%bc%e7%86%b1%e8%bb%8b1%e8%99%9f%e6%8d%b2%e6%9d%90&#34;&gt;不銹鋼熱軋 1 號捲材&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/zh/steps/step-1/#%e4%b8%8d%e9%8a%b9%e9%8b%bc%e5%86%b7%e8%bb%8b%e6%8d%b2%e6%9d%90&#34;&gt;不銹鋼冷軋捲材&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/zh/steps/step-1/#%e4%b8%8d%e9%8a%b9%e9%8b%bc%e5%b8%b6&#34;&gt;不銹鋼帶&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/zh/steps/step-1/#%e4%b8%8d%e9%8a%b9%e9%8b%bc%e6%9d%bf&#34;&gt;不銹鋼板&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/zh/steps/step-1/#%e4%b8%8d%e9%8a%b9%e9%8b%bc%e8%8a%b1%e7%b4%8b%e6%9d%bf&#34;&gt;不銹鋼花紋板&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/zh/steps/step-1/#%e4%b8%8d%e9%8a%b9%e9%8b%bc%e7%89%87&#34;&gt;不銹鋼片&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/zh/steps/step-1/#%e9%a0%90%e5%a1%97%e6%bc%86%e4%b8%8d%e9%8a%b9%e9%8b%bc%e6%8d%b2%e6%9d%90%e8%96%84%e6%9d%bf&#34;&gt;預塗漆不銹鋼捲材-薄板&lt;/a&gt;&#xA;    &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;    &lt;/p&gt;&#xA;&lt;h2 id=&#34;不銹鋼熱軋1號捲材&#34;&gt;不銹鋼熱軋1號捲材&lt;/h2&gt;&#xA;&lt;p&gt;    &lt;/p&gt;&#xA;&lt;p&gt;Yieh Corp. supplies durable, corrosion-resistant stainless steel hot rolled No. 1 coils at the best prices. Ideal for residential and marine use, our coils offer excellent strength and a perfect surface finish, with customizable processing options.&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
-      <title>碳鋼</title>
+      <title>x2</title>
       <link>/zh/steps/step-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/zh/steps/step-2/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-2&#34;&gt;Available Products for Step 2&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>鍍層鋼</title>
+      <title>x3</title>
       <link>/zh/steps/step-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/zh/steps/step-3/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-3&#34;&gt;Available Products for Step 3&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>鋁</title>
+      <title>x4</title>
       <link>/zh/steps/step-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/zh/steps/step-4/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-4&#34;&gt;Available Products for Step 4&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>管材/管道</title>
+      <title>x5</title>
       <link>/zh/steps/step-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/zh/steps/step-5/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-5&#34;&gt;Available Products for Step 5&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>棒材</title>
+      <title>x6</title>
       <link>/zh/steps/step-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/zh/steps/step-6/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-6&#34;&gt;Available Products for Step 6&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>線材</title>
+      <title>x7</title>
       <link>/zh/steps/step-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/zh/steps/step-7/</guid>
       <description>&lt;h1 id=&#34;available-products-for-step-7&#34;&gt;Available Products for Step 7&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>其他</title>
+      <title>x8</title>
       <link>/zh/steps/step-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/zh/steps/step-8/</guid>
->>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
       <description>&lt;h1 id=&#34;available-products-for-step-8&#34;&gt;Available Products for Step 8&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Product A&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Product B&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Option 1&lt;/li&gt;&#xA;&lt;li&gt;Option 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
