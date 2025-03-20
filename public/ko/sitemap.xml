@@ -2,40 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>//localhost:4321/ko/steps/step-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/en/steps/step-1/"
+=======
+    <loc>/ko/steps/step-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-1/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/steps/step-1/"
+=======
+                href="/es/steps/step-1/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/steps/step-1/"
+=======
+                href="/zh/steps/step-1/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/steps/step-1/"
+=======
+                href="/ja/steps/step-1/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/steps/step-1/"
+=======
+                href="/th/steps/step-1/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/steps/step-1/"
+=======
+                href="/vi/steps/step-1/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/steps/step-1/"
                 />
   </url><url>
@@ -44,35 +73,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/en/steps/step-2/"
+=======
+                href="/ko/steps/step-1/"
+                />
+  </url><url>
+    <loc>/ko/steps/step-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-2/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/steps/step-2/"
+=======
+                href="/es/steps/step-2/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/steps/step-2/"
+=======
+                href="/zh/steps/step-2/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/steps/step-2/"
+=======
+                href="/ja/steps/step-2/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/steps/step-2/"
+=======
+                href="/th/steps/step-2/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/steps/step-2/"
+=======
+                href="/vi/steps/step-2/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/steps/step-2/"
                 />
   </url><url>
@@ -81,35 +141,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/en/steps/step-3/"
+=======
+                href="/ko/steps/step-2/"
+                />
+  </url><url>
+    <loc>/ko/steps/step-3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-3/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/steps/step-3/"
+=======
+                href="/es/steps/step-3/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/steps/step-3/"
+=======
+                href="/zh/steps/step-3/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/steps/step-3/"
+=======
+                href="/ja/steps/step-3/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/steps/step-3/"
+=======
+                href="/th/steps/step-3/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/steps/step-3/"
+=======
+                href="/vi/steps/step-3/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/steps/step-3/"
                 />
   </url><url>
@@ -118,35 +209,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/en/steps/step-4/"
+=======
+                href="/ko/steps/step-3/"
+                />
+  </url><url>
+    <loc>/ko/steps/step-4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-4/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/steps/step-4/"
+=======
+                href="/es/steps/step-4/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/steps/step-4/"
+=======
+                href="/zh/steps/step-4/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/steps/step-4/"
+=======
+                href="/ja/steps/step-4/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/steps/step-4/"
+=======
+                href="/th/steps/step-4/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/steps/step-4/"
+=======
+                href="/vi/steps/step-4/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/steps/step-4/"
                 />
   </url><url>
@@ -155,35 +277,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/nav/"
+=======
+                href="/ko/steps/step-4/"
+                />
+  </url><url>
+    <loc>/ko/nav/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/nav/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/nav/"
+=======
+                href="/es/nav/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/nav/"
+=======
+                href="/zh/nav/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/nav/"
+=======
+                href="/ja/nav/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/nav/"
+=======
+                href="/th/nav/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/nav/"
+=======
+                href="/vi/nav/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/nav/"
                 />
   </url><url>
@@ -192,35 +345,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/en/steps/step-5/"
+=======
+                href="/ko/nav/"
+                />
+  </url><url>
+    <loc>/ko/steps/step-5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-5/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/steps/step-5/"
+=======
+                href="/es/steps/step-5/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/steps/step-5/"
+=======
+                href="/zh/steps/step-5/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/steps/step-5/"
+=======
+                href="/ja/steps/step-5/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/steps/step-5/"
+=======
+                href="/th/steps/step-5/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/steps/step-5/"
+=======
+                href="/vi/steps/step-5/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/steps/step-5/"
                 />
   </url><url>
@@ -229,30 +413,57 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/en/steps/step-6/"
+=======
+                href="/ko/steps/step-5/"
+                />
+  </url><url>
+    <loc>/ko/steps/step-6/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-6/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/steps/step-6/"
+=======
+                href="/es/steps/step-6/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/steps/step-6/"
+=======
+                href="/zh/steps/step-6/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/steps/step-6/"
+=======
+                href="/ja/steps/step-6/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/steps/step-6/"
+=======
+                href="/th/steps/step-6/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/steps/step-6/"
                 />
   </url><url>
@@ -261,30 +472,57 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/en/steps/step-7/"
+=======
+                href="/ko/steps/step-6/"
+                />
+  </url><url>
+    <loc>/ko/steps/step-7/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-7/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/steps/step-7/"
+=======
+                href="/es/steps/step-7/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/steps/step-7/"
+=======
+                href="/zh/steps/step-7/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/steps/step-7/"
+=======
+                href="/ja/steps/step-7/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/steps/step-7/"
+=======
+                href="/th/steps/step-7/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/steps/step-7/"
                 />
   </url><url>
@@ -293,35 +531,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/en/steps/step-8/"
+=======
+                href="/ko/steps/step-7/"
+                />
+  </url><url>
+    <loc>/ko/steps/step-8/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/steps/step-8/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/steps/step-8/"
+=======
+                href="/es/steps/step-8/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/steps/step-8/"
+=======
+                href="/zh/steps/step-8/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/steps/step-8/"
+=======
+                href="/ja/steps/step-8/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/steps/step-8/"
+=======
+                href="/th/steps/step-8/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/steps/step-8/"
+=======
+                href="/vi/steps/step-8/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/steps/step-8/"
                 />
   </url><url>
@@ -330,35 +599,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/footer/"
+=======
+                href="/ko/steps/step-8/"
+                />
+  </url><url>
+    <loc>/ko/footer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/footer/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/footer/"
+=======
+                href="/es/footer/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/footer/"
+=======
+                href="/zh/footer/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/footer/"
+=======
+                href="/ja/footer/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/footer/"
+=======
+                href="/th/footer/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/footer/"
+=======
+                href="/vi/footer/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/footer/"
                 />
   </url><url>
@@ -367,35 +667,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/user-trust/"
+=======
+                href="/ko/footer/"
+                />
+  </url><url>
+    <loc>/ko/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/user-trust/"
+=======
+                href="/es/categories/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/user-trust/"
+=======
+                href="/zh/categories/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/user-trust/"
+=======
+                href="/ja/categories/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/user-trust/"
+=======
+                href="/th/categories/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/user-trust/"
+=======
+                href="/vi/categories/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/user-trust/"
                 />
   </url><url>
@@ -404,35 +735,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/"
+=======
+                href="/ko/categories/"
+                />
+  </url><url>
+    <loc>/ko/product/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/product/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/"
+=======
+                href="/es/product/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/"
+=======
+                href="/zh/product/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/"
+=======
+                href="/ja/product/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/"
+=======
+                href="/th/product/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/"
+=======
+                href="/vi/product/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/"
                 />
   </url><url>
@@ -441,35 +803,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/categories/"
+=======
+                href="/ko/product/"
+                />
+  </url><url>
+    <loc>/ko/steps/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/steps/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/categories/"
+=======
+                href="/es/steps/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/categories/"
+=======
+                href="/zh/steps/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/categories/"
+=======
+                href="/ja/steps/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/categories/"
+=======
+                href="/th/steps/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/categories/"
+=======
+                href="/vi/steps/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/categories/"
                 />
   </url><url>
@@ -478,35 +871,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/product/"
+=======
+                href="/ko/steps/"
+                />
+  </url><url>
+    <loc>/ko/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/product/"
+=======
+                href="/es/tags/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/product/"
+=======
+                href="/zh/tags/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/product/"
+=======
+                href="/ja/tags/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/product/"
+=======
+                href="/th/tags/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/product/"
+=======
+                href="/vi/tags/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/product/"
                 />
   </url><url>
@@ -515,35 +939,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/steps/"
+=======
+                href="/ko/tags/"
+                />
+  </url><url>
+    <loc>/ko/thank-you/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/thank-you/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/steps/"
+=======
+                href="/es/thank-you/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/steps/"
+=======
+                href="/zh/thank-you/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/steps/"
+=======
+                href="/ja/thank-you/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/steps/"
+=======
+                href="/th/thank-you/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/steps/"
+=======
+                href="/vi/thank-you/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/steps/"
                 />
   </url><url>
@@ -552,35 +1007,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/tags/"
+=======
+                href="/ko/thank-you/"
+                />
+  </url><url>
+    <loc>/ko/how-to/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/how-to/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/tags/"
+=======
+                href="/es/how-to/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/tags/"
+=======
+                href="/zh/how-to/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/tags/"
+=======
+                href="/ja/how-to/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/tags/"
+=======
+                href="/th/how-to/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/tags/"
+=======
+                href="/vi/how-to/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/tags/"
                 />
   </url><url>
@@ -589,35 +1075,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/thank-you/"
+=======
+                href="/ko/how-to/"
+                />
+  </url><url>
+    <loc>/ko/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/thank-you/"
+=======
+                href="/es/contact/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/thank-you/"
+=======
+                href="/zh/contact/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/thank-you/"
+=======
+                href="/ja/contact/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/thank-you/"
+=======
+                href="/th/contact/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/thank-you/"
+=======
+                href="/vi/contact/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/thank-you/"
                 />
   </url><url>
@@ -626,35 +1143,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/how-to/"
+=======
+                href="/ko/contact/"
+                />
+  </url><url>
+    <loc>/ko/user-trust/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/user-trust/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/how-to/"
+=======
+                href="/es/user-trust/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/how-to/"
+=======
+                href="/zh/user-trust/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/how-to/"
+=======
+                href="/ja/user-trust/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/how-to/"
+=======
+                href="/th/user-trust/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/how-to/"
+=======
+                href="/vi/user-trust/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/how-to/"
                 />
   </url><url>
@@ -663,36 +1211,70 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:4321/contact/"
+=======
+                href="/ko/user-trust/"
+                />
+  </url><url>
+    <loc>/ko/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="//localhost:4321/es/contact/"
+=======
+                href="/es/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
                 href="//localhost:4321/zh/contact/"
+=======
+                href="/zh/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+<<<<<<< HEAD
                 href="//localhost:4321/ja/contact/"
+=======
+                href="/ja/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
+<<<<<<< HEAD
                 href="//localhost:4321/th/contact/"
+=======
+                href="/th/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
                 href="//localhost:4321/vi/contact/"
+=======
+                href="/vi/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
+<<<<<<< HEAD
                 href="//localhost:4321/ko/contact/"
+=======
+                href="/ko/"
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
                 />
   </url>
 </urlset>

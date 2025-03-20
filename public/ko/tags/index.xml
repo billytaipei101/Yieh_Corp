@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Tags on Company X</title>
     <link>//localhost:4321/ko/tags/</link>
     <description>Recent content in Tags on Company X</description>
     <generator>Hugo</generator>
     <language>ko</language>
     <atom:link href="//localhost:4321/ko/tags/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <title>Tags on 燁무국제(주) (한국어)</title>
+    <link>/ko/tags/</link>
+    <description>Recent content in Tags on 燁무국제(주) (한국어)</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <atom:link href="/ko/tags/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> e09a292644e963a5ff0c7affa2fb89c44323a5ef
   </channel>
 </rss>
