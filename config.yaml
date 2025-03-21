@@ -54,3 +54,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  parsers:
+    pug:
+      extensions: ["pug"]
+      parseCommand: ["pug", "--pretty", "--silent"]
+      renderCommand: 'cat "${input}"'

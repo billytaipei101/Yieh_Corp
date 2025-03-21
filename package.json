@@ -1,0 +1,13 @@
+{
+  "name": "corp-website",
+  "version": "1.0.0",
+  "description": "Website built with Love",
+  "scripts": {
+    "build:css": "stylus assets/css/style.styl -o static/css/style.css",
+    "build": "npm run build:css && hugo",
+    "start": "npm run build:css && hugo server -D"
+  },
+  "devDependencies": {
+    "stylus": "^0.62.0"
+  }
+}

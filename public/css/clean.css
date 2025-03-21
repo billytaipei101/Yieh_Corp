@@ -1983,7 +1983,7 @@ transition: transform .2s ease;
   background-color: #072240; /* Red button color */
   color: #fff;
   border: none;
-  padding: 0.5rem 1rem; 
+  padding: 0.5rem 1rem;
   cursor: pointer;
 }
 
